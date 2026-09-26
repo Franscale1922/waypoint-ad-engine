@@ -40,4 +40,8 @@ captivating stories through animation, repeatably.
 | 5 | Adversarial review: Codex, then independent Claude | Opus 5.5 · xhigh |
 
 ## State
-- Phase 0: waiting on references (drop them in `references/`).
+- Phase 0, batch 1 read (2026-09-26): Franky Shaw course + ChatGPT "Unfinished Song" packet.
+  Digest: `research/REFERENCE-DIGEST-v1.md`. 22 reference MP4s not yet watched.
+- Waiting on: Kelsey's answers to the digest questions, and reference batch 2.
+- Research-before-generation applies here: this repo will hold each ad's record; no generation until
+  that ad's claims are sourced and its story is settled.
