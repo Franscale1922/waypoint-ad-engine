@@ -45,6 +45,7 @@ captivating stories through animation, repeatably.
 - Phase 0, batch 1 read (2026-09-26): Franky Shaw course + ChatGPT "Unfinished Song" packet.
   Digest: `research/REFERENCE-DIGEST-v1.md`. 22 reference MP4s not yet watched.
 - Kelsey answered the digest questions (recorded in the digest, section 6).
-- Waiting on: reference batch 2.
+- Batch 2 read (Ori Silver / Resilia song ads): `research/REFERENCE-DIGEST-batch2.md`.
+- Waiting on: further reference batches.
 - Research-before-generation applies here: this repo will hold each ad's record; no generation until
   that ad's claims are sourced and its story is settled.
