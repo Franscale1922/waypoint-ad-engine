@@ -16,9 +16,11 @@ captivating stories through animation, repeatably.
 - **Compliance is part of the story, not a filter after it.** Franchise advertising under
   FranChoice: no earnings claims or income projections; every factual claim sourced before
   generation (research-before-generation rule).
-- **Kelsey's true arc only:** Bloomin' Blinds founder + CEO (~11 yrs), ran own North Austin
-  location semi-absentee at a loss, now independent advisor. Never "failed franchisee of
-  someone else's brand", never ex-corporate.
+- **Ads are fiction** with a business-ownership lesson and a CTA. Audience: 40–60, men and women,
+  "corporate refugees". The story is invented; anything said about Waypoint or franchising is not.
+- **Formats: 9:16 or 1:1, Facebook-first.** Schedule, placement and budget are out of scope.
+- (If Kelsey's own arc is ever used: founder + CEO of Bloomin' Blinds, ran own location at a loss,
+  now advisor — never "failed franchisee", never ex-corporate.)
 
 ## Tools on this machine (checked 2026-09-26)
 - Claude Code 2.1.260 (this session: Opus 5.5). Fable 5.1 available as top tier.
@@ -42,6 +44,7 @@ captivating stories through animation, repeatably.
 ## State
 - Phase 0, batch 1 read (2026-09-26): Franky Shaw course + ChatGPT "Unfinished Song" packet.
   Digest: `research/REFERENCE-DIGEST-v1.md`. 22 reference MP4s not yet watched.
-- Waiting on: Kelsey's answers to the digest questions, and reference batch 2.
+- Kelsey answered the digest questions (recorded in the digest, section 6).
+- Waiting on: reference batch 2.
 - Research-before-generation applies here: this repo will hold each ad's record; no generation until
   that ad's claims are sourced and its story is settled.

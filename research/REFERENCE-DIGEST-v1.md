@@ -103,9 +103,20 @@ Chloe gets the key line instead of the narrator, silent memories, dignity guardr
   Higgsfield is connected directly to Claude, so generation, assembly and QA can happen in one place.
   _Unverified until tested: exact Higgsfield MCP controls, costs and start/end-frame support._
 
-## 6. Questions for Kelsey (plain English)
+## 6. Kelsey's answers (2026-09-26) — these are decisions
 
-See the chat message of 2026-09-26; answers get recorded here as decisions.
+1. **The Unfinished Song was a test** that could become an ad if it works. Not a commitment.
+2. **Claymation was a pick, not data-backed.** Style is open; test by eye.
+3. **Avatar: 40–60, male OR female, "corporate refugee".** Arthur is one instance, not the audience.
+4. **Story unfinished; open to changes.** Kelsey likes it *up to and including the three flashes of
+   missed family time*. Everything after (the bridge, ownership turn, ending) is open.
+5. **CTA wording/landing match: open to refinement.**
+6. **The three memories stay** — they are the relevant examples for this audience.
+7. **The 3,500-character cap was NotebookLM-only.** NotebookLM is not needed if current models can
+   do its job (concepting from sources). ChatGPT's other process rules are not Kelsey's.
+8. **Ads are fiction** — fictional stories carrying a business-ownership lesson, then the CTA. Not
+   Kelsey's personal story. (Claims about Waypoint/franchising in the CTA still must be true.)
+9. **Placement: generally Facebook. Build 9:16 or 1:1. Do not plan around when/where/budget.**
 
 ## 7. Suggested direction (pending answers)
 
