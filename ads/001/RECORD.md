@@ -56,3 +56,53 @@ the decision: it does not make the top three, as its own record predicted.
 3. **Better Reasons** — the sharpest stance in the pool (advisor says no); but its form is a
    consultation scene, the average's own furniture, and it needs a FranChoice read on depicting
    the advisory process.
+
+## Decisions (2026-09-27, after Kelsey's system review)
+- **Story: Nine-Thirty** (Kelsey: "go" on the recommendation). Working title; DeepSeek's original
+  title "The Beige Screensaver" retired.
+- **Order of work changed:** render the hardest shot BEFORE writing the script. No more docs until a
+  frame exists. Numeric scoring dropped; the five questions stay.
+- **Voice: ElevenLabs** (Kelsey has an account; key copied into this project's `.env` from Kids
+  Videos / everyx-engine, both identical). Not Kelsey's own voice, not Higgsfield TTS.
+- **Distribution: organic Facebook post first; paid budget goes behind the organic performers.**
+  May change later. Shapes the CTA (a link/quiz in the post, not an ad-unit button).
+- **Landing page = the Franchise Readiness Quiz at waypointfranchise.com/scorecard.** Read live
+  2026-09-27: 5 questions, question 1 is liquid capital; page copy says "an honest read on where you
+  stand", "no pitch, no pressure", "free and honest, from a former franchisor", "franchise brands pay
+  the referral fee, not you". Fits stance 1 well. Nothing on the page says "Tuesday" (stance 3), so
+  the CTA line must promise what the page delivers: an honest read, not a Tuesday.
+- **The two-stage adversarial review runs ONCE, on the finished ad** (script + render) before it is
+  posted. Not on the doctrine, bible or script separately (proportionality gate: unrendered = internal).
+
+## Bake-off — hardest shot of Nine-Thirty (2026-09-27, Higgsfield MCP, ~15 credits of 2,622)
+Frame: P2 of an office garage, 9:07, parked grey sedan, a 47-year-old Black man in a lanyard and
+navy quarter-zip, hands on the wheel, looking at the dashboard clock; the amber clock digits are
+the only saturated colour. Three signature directions × four models, 9:16, 1k. Files local only in
+`ads/001/bake-off/` (gitignored); `contact-sheet.png` rows = direction, columns = model.
+
+| # | Direction | Model (as run) | What came back |
+|---|---|---|---|
+| 11 | Office Diorama (peg doll) | gpt_image_2_5 flare/medium (0.5 cr) | Card-textured car, peg doll with one dot eye, blue lanyard, 9:07 legible, fingerprint on the pillar. Best of set. |
+| 12 | Office Diorama | gpt_image_2 medium | Cleaner, less grain; faint painted smile; strong pillar composition. |
+| 13 | Office Diorama | seedream_v5_pro (1.25 cr) | Added eyebrows and a smile; paper light fixture is a nice touch; odd car geometry. |
+| 14 | Office Diorama | nano_banana_pro → **routed to nano_banana_2** | Desk lamp and corrugated edge in frame (most "medium admitted"); **dropped skin tone** (pale wood peg). |
+| 21 | Vox-Pop Clay | gpt_image_2_5 | Good clay texture on car and hands; face detailed, close to realistic. |
+| 22 | Vox-Pop Clay | gpt_image_2 | Aardman-style big eyes: the AI claymation default. |
+| 23 | Vox-Pop Clay | seedream_v5_pro | Thumbprints everywhere, worried eyebrows we didn't ask for. |
+| 24 | Vox-Pop Clay | nano_banana_2 | Wide held-shot composition, near-monochrome; figure small; flat. |
+| 31 | Drawn-on-the-Real | gpt_image_2_5 | Ink-drawn man over a photographic car: reads as the idea. |
+| 32 | Drawn-on-the-Real | gpt_image_2 | Man nearly photoreal with line accents; less "drawn". |
+| 33 | Drawn-on-the-Real | seedream_v5_pro | Most illustrated figure; slight smile. |
+| 34 | Drawn-on-the-Real | nano_banana_2 | **Recast the man as white**; most photographic garage. |
+
+Findings: **GPT Image 2.5 followed the brief best in every row** (texture, casting, the clock, the
+fingerprint). Seedream adds facial expression the brief refused. **Nano Banana 2 drifted on casting
+twice out of three** — do not use it for character frames. Nano Banana Pro is not actually served
+(the platform substitutes Nano Banana 2).
+**Recommendation to Kelsey: Office Diorama, GPT Image 2.5.** The peg doll cannot do "Pixar eyes"
+(faces that do less is built in), the card grain and fingerprint admit the medium, the amber clock
+is the one colour with a job, and a competitor cannot copy it without looking like us. Clay is the
+ChatGPT project's pick and the AI default. Drawn-on-the-Real is the boldest and the riskiest to hold
+consistent across video frames; worth one video test later, not for ad #1.
+Unverified until tried: whether Seedance/Kling video keeps the peg-doll and card texture stable
+across a held 8-second shot. That is the next test, not another document.

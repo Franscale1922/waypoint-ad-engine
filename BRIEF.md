@@ -72,25 +72,30 @@ Decided:
 Open (Kelsey's calls):
 - Visual signature: decided by a bake-off, not on paper (candidate directions in batch 4 §5).
 
-**In progress: Phase 1 — story bible + first story** (Fable 5.1 · high). Generate wide from the
-unclaimed ground (DeepSeek + Claude), refuse the named average, pick one sharp story for ad #1.
-Phase 1 steps (plan approved 2026-09-27): A. record T1 ✅ → B. `story/STORY-BIBLE.md` (≤~150 lines;
-doubles as DeepSeek's system prompt) → C. name the average in `ads/001/RECORD.md`; ~30 DeepSeek +
-~10 Claude concepts + the Unfinished Song → `ads/001/CONCEPTS.md` (script: `tools/deepseek.py`,
-v4-pro, thinking off, temp 1.4) → D. score, show Kelsey top 3 + one recommendation, Kelsey picks →
-E. `ads/001/STORY.md` (≤3 revision rounds; `say -r 150` timing proxy) → F. two-stage review at
-Opus xhigh (discharges T2) → G. update this file, commit, hand off to Phase 2.
-Unverified: Higgsfield MCP's live models/costs (check with a read-only call before Phase 2).
+**Phase 1 done through the concept pick; Phase 2 started the same day (2026-09-27).**
+Done: T1 stances ✅ · `story/STORY-BIBLE.md` (136 lines, doubles as DeepSeek's system prompt) ·
+`tools/deepseek.py` (v4-pro, thinking off; **temp 1.0–1.2 — 1.4 collapses**, measured) ·
+`ads/001/CONCEPTS.md` (50 concepts) · **story picked: Nine-Thirty** (`ads/001/RECORD.md`) ·
+Higgsfield verified live (T3 ✅: 2,622 credits, image models + costs in RECORD) · hardest shot
+rendered in 3 directions × 4 models (T4 in progress: **Kelsey picks the signature by eye from
+`ads/001/bake-off/contact-sheet.png`**; my recommendation is Office Diorama on GPT Image 2.5).
+Decided 2026-09-27: voice = ElevenLabs (key in `.env`); organic Facebook post first, paid behind the
+performers; landing page = the readiness quiz at /scorecard; the two-stage review runs once, on
+the finished ad. **Kelsey's system review, same day: no new docs until a frame exists; numeric
+scoring dropped; render before writing.**
+Next, in order: (1) Kelsey picks the signature → (2) one video test of the held shot (does the
+peg doll + card texture survive 8s of Seedance/Kling?) → (3) write `ads/001/STORY.md` with the
+frame in hand (Fable) → (4) ElevenLabs VO sets timing → (5) build, watch, review once, post.
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
 
 | # | Item | Trigger | Next step |
 |---|---|---|---|
 | T1 | ~~Kelsey keeps/rewrites/kills the 6 DRAFT stances~~ **DONE 2026-09-27** — recorded in `CLAUDE.md` | — | — |
-| T2 | Two-stage adversarial review (Codex, then independent Claude subagent) of `CLAUDE.md` doctrine + tone + the pipeline plan — **not run yet**; only self-checked (internal, never-run docs) | End of Phase 1, before the first paid generation | Phase 1's final review covers it: Codex payload includes `CLAUDE.md` + `BRIEF.md` + story bible + ad #1 story; fix or decline each finding |
-| T3 | Verify the Higgsfield MCP live: models available (Seedance 2.0/2.5, Seedream 5.0, GPT Image 2, Kling), costs, Elements, audio references | Start of Phase 2, before any generation | Read-only calls (`models_explore`, `balance`, `show_reference_elements`); record results here |
-| T4 | Visual-signature bake-off (same frame in 2–3 image models × 2–3 candidate directions from batch 4 §5) | Phase 2, after the story is chosen | Kelsey picks by eye; lock it in `CLAUDE.md` rule 7 |
+| T2 | Two-stage adversarial review (Codex, then independent Claude subagent) — runs **once, on the finished ad #1** (script + render), payload includes `CLAUDE.md`, bible, STORY.md | Before ad #1 is posted | Opus xhigh; fix or decline each finding; blandness audit included |
+| T3 | ~~Verify the Higgsfield MCP live~~ **DONE 2026-09-27** for images (see `ads/001/RECORD.md`); video models/costs still to check at the first video test | — | `models_explore type=video` before the video test |
+| T4 | Visual-signature bake-off — **rendered 2026-09-27** (3 directions × 4 models, `ads/001/bake-off/`) | Now | Kelsey picks by eye; lock it in `CLAUDE.md` rule 7 |
 | T5 | Codex/GPT role: configured model `gpt-6-astra` is unverified; decide critic-only vs. also images | Phase 2 bake-off / first review | `codex --version` + one small critique run |
-| T6 | No git remote — work exists only on this Mac and cannot reach the Mac Mini | Before Phase 2, or as soon as work must exist on the Mini | Create a private `Franscale1922` repo, push, run `stamp-git-safety.sh`, add to `~/Projects/MINI-TODO.md` |
+| T6 | No git remote. **Blocked 2026-09-27:** SSH pushes as Franscale1922 but `gh` is signed in as another account and the only stored GitHub token is dead, so I cannot create the repo | As soon as Kelsey creates the empty private repo `Franscale1922/waypoint-ad-engine` on github.com | Then: add remote, push, run `stamp-git-safety.sh`, add to `~/Projects/MINI-TODO.md` |
 | T7 | Global `~/.claude/CLAUDE.md` model roster says Opus 5 / Fable 5; this machine has Opus 5.5 / Fable 5.1 (adjacent issue, not blocking) | Next dotfiles/global-rules edit session | Update roster in the canonical file via dotfiles, re-stamp |
 | T8 | `references/` is 4.8 GB, gitignored, local only (Franky packet, Ori videos, tutorial downloads) | When T6 is done or disk matters | Decide: keep local, move to Drive, or prune the 3 GB of Ori tutorials already digested |

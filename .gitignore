@@ -7,3 +7,6 @@ Franky-Shaw-2100331741948813730-analysis.md
 .claude/settings.local.json
 .env
 .env.*
+
+# Bake-off test frames: local only (URLs + job ids are in ads/001/RECORD.md)
+ads/*/bake-off/
