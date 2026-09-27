@@ -45,18 +45,20 @@ mouth); they are reasonable people. Nobody in this ad is wrong except Ray's wait
 Agency check: 15 of 17 sentences with a subject have Ray as the subject (88%; the law wants ≥60%).
 Screenshot line inside 20s: cue 1's last sentence. Voice in the first 3s: yes.
 
-## Shot list (durations are the plan; the recorded VO is the master clock and overrides them)
+## Shot list (retimed 2026-09-27 from the ElevenLabs read, voice Roger: 52.1s of speech; slots below add air)
 | # | Time | Set (all Office Diorama) | What's on screen | Prop / state | Cue |
 |---|---|---|---|---|---|
-| S1 | 0:00–0:09 | P2 garage (built: `bake-off/11.png`) | **Held 9s**, locked off. Ray in the car, hands on the wheel. Clock 9:07 → 9:08 at ~4s. | clock 9:07→9:08 | 1 |
-| S2 | 0:09–0:15 | Open-plan office, cut card; Ray's desk | Dave leans on the cubicle wall holding a mug. Ray's dot eyes do nothing. Dave nods once. | badge on lanyard on desk | 2 |
-| S3 | 0:15–0:22 | Kitchen table, night, one practical lamp | Wife across the table, a second chair, two plates. She doesn't look up. Held. | second chair present | 3 |
-| S4 | 0:22–0:29 | P2 garage, same frame as S1 | Clock reads 9:29 → 9:30 at the line "nine-thirty". Nothing else moves. | clock 9:29→9:30 | 4 |
-| S5 | 0:29–0:37 | P2, tighter: hands, wheel, clock | **Held 8s.** Hands don't move. | engine off | 5 |
-| S6 | 0:37–0:45 | P2, over the shoulder: glovebox open | A small notebook on the passenger seat. His hand writes one word in **amber** ink: TUESDAY. | notebook, amber pen | 6 |
-| S7 | 0:45–0:50 | P2, same frame as S1 | Clock 9:30. Ray's head, for the first time, turns to the windscreen. Not to the exit. | clock 9:30 | 7 |
-| S8 | 0:50–0:58 | P2, the cupholder | Phone in the cupholder shows the readiness quiz. Card-texture end card: **waypointfranchise.com/scorecard** in amber. Brand at 86%. | phone; end card | 8 |
-Sum: 58s. Held shots ≥8s: S1, S5. Brand first appears at 0:50 (86%). Cuts: 7 in 58s.
+| S1 | 0:00–0:10 | P2 garage (built: `bake-off/11.png`) | **Held 9s**, locked off. Ray in the car, hands on the wheel. Clock 9:07 → 9:08 at ~4s. | clock 9:07→9:08 | 1 |
+| S2 | 0:10–0:17 | Open-plan office, cut card; Ray's desk | Dave leans on the cubicle wall holding a mug. Ray's dot eyes do nothing. Dave nods once. | badge on lanyard on desk | 2 |
+| S3 | 0:17–0:25 | Kitchen table, night, one practical lamp | Wife across the table, a second chair, two plates. She doesn't look up. Held. | second chair present | 3 |
+| S4 | 0:25–0:32 | P2 garage, same frame as S1 | Clock reads 9:29 → 9:30 at the line "nine-thirty". Nothing else moves. | clock 9:29→9:30 | 4 |
+| S5 | 0:32–0:40 | P2, tighter: hands, wheel, clock | **Held 8s.** Hands don't move. | engine off | 5 |
+| S6 | 0:40–0:47 | P2, over the shoulder: glovebox open | A small notebook on the passenger seat. His hand writes one word in **amber** ink: TUESDAY. | notebook, amber pen | 6 |
+| S7 | 0:47–0:52 | P2, same frame as S1 | Clock 9:30. Ray's head, for the first time, turns to the windscreen. Not to the exit. | clock 9:30 | 7 |
+| S8 | 0:52–1:00 | P2, the cupholder | Phone in the cupholder shows the readiness quiz. Card-texture end card: **waypointfranchise.com/scorecard** in amber. Brand at 86%. | phone; end card | 8 |
+Sum: 60s. Held shots ≥8s: S1 (10s), S3, S5. Brand first appears at 0:52 (87%). Cuts: 7 in 60s.
+Measured cues (Roger, multilingual_v2, speed 0.95): 9.2 · 6.2 · 7.3 · 5.8 · 6.9 · 5.3 · 4.0 · 7.3 s.
+Files: `ads/001/vo/cue1-8-roger.mp3`, stitched `nine-thirty-roger-v1.mp3` (local only).
 
 ## Devices used (bible §6)
 Bookend object (clock) · refrain that turns · one accent colour with a job · two held shots ≥8s ·
@@ -78,9 +80,9 @@ less (peg dolls) · brand late and inside the world (a phone in a cupholder).
 - **Hardest shots, in order:** S3 (a second and third peg doll on a new set: identity + set
   consistency), S6 (legible handwritten TUESDAY in amber), S8 (a legible URL on a card end card).
   Test S3 and S6 stills before anything else.
-- VO: ElevenLabs. Voice to cast: male, middle-aged, American, dry, low energy. Candidates from the
-  account's list: Roger ("laid-back, casual, resonant"), Chris ("charming, down-to-earth"), Eric
-  ("smooth, trustworthy"). Render cue-by-cue so each clip's length is set by its cue.
+- VO: ElevenLabs, rendered cue-by-cue 2026-09-27 with **Roger** (laid-back, resonant, middle-aged
+  American) as the first read; Chris and Eric are the alternates if Kelsey wants drier or warmer.
+  Kelsey has not yet approved the voice.
 - Sound as a second idea: no music under S1–S5. The garage's fluorescent hum only. A single low
   piano note is banned. Consider silence under S7.
 - 9:16 master; 1:1 crop must keep the clock in frame (compose S1/S4/S7 with the clock centre-right).

@@ -83,9 +83,19 @@ Decided 2026-09-27: voice = ElevenLabs (key in `.env`); organic Facebook post fi
 performers; landing page = the readiness quiz at /scorecard; the two-stage review runs once, on
 the finished ad. **Kelsey's system review, same day: no new docs until a frame exists; numeric
 scoring dropped; render before writing.**
-Next, in order: (1) Kelsey picks the signature → (2) one video test of the held shot (does the
-peg doll + card texture survive 8s of Seedance/Kling?) → (3) write `ads/001/STORY.md` with the
-frame in hand (Fable) → (4) ElevenLabs VO sets timing → (5) build, watch, review once, post.
+Later the same day: **signature locked** (Office Diorama, GPT Image 2.5; `CLAUDE.md` rule 7) ·
+**video test passed** (Seedance 2.0 fast 480p obeyed exactly; Kling 3.0 turned the head) ·
+**`ads/001/STORY.md` v1 written** (script 145 words, 8 shots, CTA facts sourced to the live quiz
+page, blandness audit) · **VO rendered in ElevenLabs** (Roger; 52.1s of speech, fits a 60s cut;
+`ads/001/vo/`, local only). Spent today: ~33 Higgsfield credits, ~$0.15 DeepSeek, ~900 ElevenLabs chars.
+**Next (Phase 3, production — Opus 5.5 · high):** (1) Kelsey approves the voice (or picks Chris/
+Eric) and reads STORY.md — max 3 revision rounds, log "what got more ordinary"; (2) stills for the
+hardest shots first: S3 kitchen (three peg dolls), S6 the amber TUESDAY, S8 the end card, all GPT
+Image 2.5 with `bake-off/11.png` as the style reference; (3) every shot to Seedance 2.0 fast 480p,
+cut to the VO with ffmpeg, watch it with video-vision; (4) finish keepers at 1080p; (5) the single
+two-stage adversarial review (T2) on the cut; (6) organic Facebook post with the /scorecard link.
+**Blocked on Kelsey: T6** — create the empty private repo `Franscale1922/waypoint-ad-engine` on
+github.com; then I add the remote, push, stamp, and add the Mini step.
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
 

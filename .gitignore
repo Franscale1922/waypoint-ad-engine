@@ -10,3 +10,6 @@ Franky-Shaw-2100331741948813730-analysis.md
 
 # Bake-off test frames: local only (URLs + job ids are in ads/001/RECORD.md)
 ads/*/bake-off/
+
+# VO renders: local only
+ads/*/vo/
