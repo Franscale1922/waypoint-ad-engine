@@ -46,6 +46,14 @@ income claims, no fake testimonials presented as real, nothing untrue about Wayp
    locked and applied to everything, so a viewer recognises a Waypoint ad before the logo. Default
    AI looks (teal-and-orange grade, beige-everything, glossy plastic 3D, symmetrical centred hero
    shot, lens-flare sunrise) are banned unless chosen on purpose.
+   **LOCKED 2026-09-27 (Kelsey, by eye, from a 12-frame bake-off): OFFICE DIORAMA.** Hand-built
+   miniature: cut card and foam-board sets with visible glue seams, paper grain and a fingerprint
+   somewhere in every set; people are wooden peg dolls with two painted dot eyes and no mouth
+   (faces do less by construction); one small practical lamp lights the set; a grey world with one
+   accent colour per ad that carries meaning (ad 001: the amber clock digits). Image model of record:
+   **GPT Image 2.5** (followed the brief best in every row; Seedream adds expression, Nano Banana 2
+   drifts on casting). Reference frame: `ads/001/bake-off/11.png`. Still open until a video test:
+   frame-rate/texture behaviour in motion; end-card typography.
 8. **Model choice is a distinctiveness lever.** Render key frames in more than one image model and
    pick the least generic, not the most polished (a Sept 2026 tutorial found GPT Image 2 "safe" and
    Seedream more interesting for stylized work — test, don't assume).
