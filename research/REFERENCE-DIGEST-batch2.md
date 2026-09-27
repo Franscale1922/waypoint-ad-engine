@@ -150,3 +150,65 @@ formatting; no timing map or visual side.
 **Verdict:** don't use the skill directly for ads. Lift its craft rules into the engine's script
 standard, and keep it (or a fork with a new voice/persona) as the lyric writer if we test a sung
 format.
+
+## Addendum D — Ori Silver's 9 YouTube tutorials (all watched in full by 4 readers, 2026-09-26)
+
+Uploaded 2026-07-26 → 2026-09-23; 122–1,143 views each. All are demos inside Maxfusion (Ori's
+platform, undisclosed affiliate links); performance/ROAS claims unverified; several of his "perfect"
+verdicts are contradicted by his own frames (cloned characters, misspelled cans, a nude insert).
+Every demo uses realistic humans except a few clay/Pixar clips; **none tests a stylized character
+held consistent across a full 60s multi-clip story** — that remains untested by anyone.
+
+### 1. How to build a skill (the most valuable video — "How I Build Claude Skills for AI Ads")
+- **Only codify a process already proven by hand.** Otherwise "the discovery phase gets baked into
+  the skill" and every run drifts. (Same as Kelsey's proportionality rule.)
+- **Model first:** know what the chosen video model is bad at; that shapes the skill.
+- **Invariants vs variables:** style locked; product/subject/story vary per run.
+- **One visual style per skill;** a different content job in the same style = a branch.
+- **Gates = your real QA checkpoints, formalized, and few:** prompt approval, then a 1–2 clip canary,
+  then the rest; a spend confirmation before any paid step (he shows a lip-sync cost quote).
+- **Hard rules only where the model is "confidently wrong"** (observed failures, not speculation).
+- **Front-load a complete brief** — agents average away missing detail.
+- **Version + changelog; snapshot before any patch. Minimum complexity** (one execution surface).
+- Continuity trick: last frame of clip N becomes the reference for clip N+1.
+
+### 2. Prompt structure that works on current video models (convergent across videos)
+- **Reference roles:** one line per attached image: what it defines, what to ignore
+  ("@Image2 defines the man's face, hair, build. Do not use his clothing or background").
+- **Scene inventory up front:** style, era, camera look, every character and object declared first.
+- **Staged beats:** each time block has an initial state, one primary event (shot size + camera
+  move), and an end state; the next block "continues from" it. Weave camera + action + the exact
+  attributed line into each beat.
+- **A "maintain consistency" block** and **audio notation** (music / SFX / {dialogue} + language +
+  delivery).
+- **Low action density** (~3 actions per clip on weaker models). **Captions added in the edit,
+  never generated.** **Script around words the model mispronounces** — test "franchise", "Waypoint",
+  "assessment" before relying on in-model speech.
+
+### 3. Model notes (Ori's claims, Aug–Sep 2026 — dated, unverified)
+| Model | Claimed fit |
+|---|---|
+| Seedance 2.5 | Most consistent stylized output; 30s shots + extensions; 50 references (30 img / 10 video / 10 audio per ByteDance page); targeted timestamp edits. Shown only at 720p; mangles some words; voices sound AI. |
+| Seedance 2.0 | Cheaper; reads storyboard/shot sheets well; the only character-sheet → animation proof shown (clay BMX kid, 4K). |
+| MiniMax H3 | Best when a song carries the ad (with the song as audio input); poor for realistic UGC. |
+| Flux 3 | Good retro-TV/UGC talking; hallucinates with complexity; drifted in stylized tests — avoid for our look. |
+| Google Omni Flash | Good at on-screen text and speech; "too AI" for cinematic. |
+Our Higgsfield catalog (Sep 24) listed Seedance 2.0/2.5, Kling 3.0, Omni Flash, Veo 3.1 — not
+MiniMax H3 or Flux 3. Live check still needed.
+
+### 4. Consistency and audio
+- **Character sheets:** 4 views (+ back view) + **named hex color swatches**, generated **in the
+  target style first**; separate sheets for age, outfit or before/after; add an expression row for
+  emotional beats (Ori doesn't). One sheet per character, attached to every shot.
+- **Storyboard sheets:** numbered panels with per-panel durations, a visual device carrying the
+  mood (his "battery meter"), and a color grade that shifts with the emotion.
+- **Voice:** narration made separately (it can then be the timing master). If in-model audio is
+  used: extract → separate vocals → speech-to-speech into one designed voice → remux. A "Voice ID"
+  block (age, gender, accent, pitch, texture, delivery, mic environment) for prompt-level
+  consistency. Two speakers in one clip need per-speaker handling (not covered by him).
+- **Lip sync:** design to need little of it (narration over cutaways, reactions, backs of heads);
+  lip-sync only the few dialogue shots, *after* the final voice is in place.
+
+### 5. Do not copy
+Ad cloning of competitors "recreated with your brand"; real trademarks in generated ads (Adidas,
+poppi, Purina…); real people's faces or voices as sources; undisclosed commercial interests.
