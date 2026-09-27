@@ -54,6 +54,9 @@ Peak = 01:00–04:00 and 06:00–10:00 UTC, Mon–Fri; everything else is half p
   (DeepSeek's own recommendation for creative writing is 1.5). Use thinking on (effort high) only
   for structure tasks like fitting a script to a timing map. Hypothesis to test, not a fact: thinking
   mode converges toward safer writing.
+  **Measured 2026-09-27 (Phase 1, 14 calls, `deepseek-v4-pro`, thinking off, ~3k-token system
+  prompt): 1.3–1.5 is WRONG for V4-Pro. At 1.4 every batch gave one coherent concept, then word
+  salad. 1.0 was clean in all five batches; 1.2 coherent but purpler. Use 1.0–1.2.**
 - **Cost control:** keep one fixed system prompt (brief + doctrine) so it is cached; run batches
   off-peak; log tokens per call.
 
