@@ -55,6 +55,16 @@ income claims, no fake testimonials presented as real, nothing untrue about Wayp
     stance present? average named and avoided? swap test passed? signature applied? most
     memorable single image or line identified? A pass on correctness with a fail here is a fail.
 
+### TONE (Kelsey, 2026-09-27)
+Witty. Sarcastic. Pushes on uncomfortable truths — ageism after 45, the reorg email, loyalty that
+isn't returned, the lie of "passive income", the spouse who stopped asking about work. Adult
+innuendo and flirtation between grown-up characters is allowed, kept suggestive rather than
+explicit (Meta's ad policy rejects sexualised bodies and implied nudity), and never near minors.
+**Race and ethnicity:** specific, true cultural detail and varied casting — yes. Humour whose
+punchline depends on a racial stereotype — no, including when it's "subtle", and no routing it
+through a less-filtered model to get around this. The allowed version of that edge: the joke lands
+on the *assumption* someone makes, not on the group.
+
 ### POINT OF VIEW — Waypoint's stances (DRAFT, awaiting Kelsey's approval — do not treat as settled)
 Candidate stances for Kelsey to keep, rewrite or kill:
 - Most people shouldn't buy a franchise — and a good advisor tells them so.
