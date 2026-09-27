@@ -75,3 +75,16 @@ Open (Kelsey's calls):
 **Next: Phase 1 — story bible + first story** (Fable 5.1 · high). Generate wide from the unclaimed
 ground (DeepSeek + Claude), refuse the named average, pick one sharp story for ad #1.
 Unverified: Higgsfield MCP's live models/costs (check with a read-only call before Phase 2).
+
+## Triggered work — do not drop (recorded 2026-09-27 at session close)
+
+| # | Item | Trigger | Next step |
+|---|---|---|---|
+| T1 | Kelsey keeps/rewrites/kills the 6 DRAFT stances in `CLAUDE.md` | First turn of Phase 1 | Ask Kelsey in plain English; record answers in `CLAUDE.md`, remove "DRAFT" |
+| T2 | Two-stage adversarial review (Codex, then independent Claude subagent) of `CLAUDE.md` doctrine + tone + the pipeline plan — **not run this session**; only self-checked (internal, never-run docs) | Before the first paid generation (start of Phase 2) | Run it at Opus xhigh; fix or decline each finding with a reason |
+| T3 | Verify the Higgsfield MCP live: models available (Seedance 2.0/2.5, Seedream 5.0, GPT Image 2, Kling), costs, Elements, audio references | Start of Phase 2, before any generation | Read-only calls (`models_explore`, `balance`, `show_reference_elements`); record results here |
+| T4 | Visual-signature bake-off (same frame in 2–3 image models × 2–3 candidate directions from batch 4 §5) | Phase 2, after the story is chosen | Kelsey picks by eye; lock it in `CLAUDE.md` rule 7 |
+| T5 | Codex/GPT role: configured model `gpt-6-astra` is unverified; decide critic-only vs. also images | Phase 2 bake-off / first review | `codex --version` + one small critique run |
+| T6 | No git remote — work exists only on this Mac and cannot reach the Mac Mini | Before Phase 2, or as soon as work must exist on the Mini | Create a private `Franscale1922` repo, push, run `stamp-git-safety.sh`, add to `~/Projects/MINI-TODO.md` |
+| T7 | Global `~/.claude/CLAUDE.md` model roster says Opus 5 / Fable 5; this machine has Opus 5.5 / Fable 5.1 (adjacent issue, not blocking) | Next dotfiles/global-rules edit session | Update roster in the canonical file via dotfiles, re-stamp |
+| T8 | `references/` is 4.8 GB, gitignored, local only (Franky packet, Ori videos, tutorial downloads) | When T6 is done or disk matters | Decide: keep local, move to Drive, or prune the 3 GB of Ori tutorials already digested |
