@@ -106,3 +106,15 @@ ChatGPT project's pick and the AI default. Drawn-on-the-Real is the boldest and 
 consistent across video frames; worth one video test later, not for ad #1.
 Unverified until tried: whether Seedance/Kling video keeps the peg-doll and card texture stable
 across a held 8-second shot. That is the next test, not another document.
+
+## Video test — does the signature survive motion? (2026-09-27, 18 credits)
+Start frame: `bake-off/11.png` (job `7185c09f…`). Prompt: locked-off camera, nothing changes except
+the clock flipping 9:07→9:08 at 4s, one thumb lift, one tube flicker; head does not turn. 8s, silent.
+Watched frame-by-frame with claude-video-vision (8 samples each).
+| Model | Cost | Result |
+|---|---|---|
+| **Seedance 2.0** fast 480p | 8 cr | **Obeyed exactly.** Set, card grain, fingerprint, doll all static; clock flips cleanly at ~3s; head never turns. 496×864. |
+| Kling 3.0 std | 10 cr | Held the set and texture; clock flips via a scrambled-digit flicker (reads as a real LED); **head turns away in the last 2s** despite the instruction. 716×1280. |
+**Verdict: the Office Diorama signature holds in motion.** Draft in Seedance 2.0 fast 480p (most
+obedient, cheapest); decide the finishing model per shot after the ad is cut. Clips local:
+`bake-off/video-seedance2.mp4`, `bake-off/video-kling3.mp4`. Signature locked in `CLAUDE.md` rule 7.
