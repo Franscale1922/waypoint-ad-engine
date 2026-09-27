@@ -82,3 +82,71 @@ revenge — proof the blueprint works in a gentler register. Its craft is the be
 ## Open question for Kelsey
 Kelsey has a skill called `waypoint-folk-song-studio`. A sung-story format is the main thing both
 batch-2 videos share. Not yet looked at what that skill does.
+
+---
+
+## Addendum A — the arc chart (article image, saved as `references/batch2/resilia-hero-journey-arc.webp`)
+
+Twelve beats on one line: start at a baseline (ordinary world) → fall below it (humiliation, wound
+deepens, frozen, seeing it too) → rock bottom at failed solutions → the mentor starts the rise → the
+gift sits just under halfway → a small dip for doubt → the climb crosses back over the baseline →
+the peak is vindication (same place, same people) → it settles into "return with the elixir", still
+above where the hero started. Rules the chart makes visual: **the product never appears before the
+mentor**, and **the ending lands higher than the start, not back at it.**
+
+Kelsey's read: a good frame for the character arc. Agreed. For a 60s ad, the 12 beats compress; the
+question per story is which beats become a single shot, which become a line, and which are cut.
+The Unfinished Song, mapped on it, has beats 1–5 (the memories) and jumps to 11 (the song played);
+it has no failed solutions, mentor, doubt or climb — which is exactly why its bridge to ownership
+feels unearned.
+
+## Addendum B — Ori's production process (maxfusion.ai blog, read in full)
+
+The X article's "free Claude Skill" is not a downloadable file: it is this process run through
+Maxfusion's paid MCP (account required; not created). The process itself is fully described:
+
+1. **Script as first-person lyrics**, short lines, one idea per line (7–10 min ≈ 1,100–1,500 words).
+2. **Song generated from the exact lyrics** (Suno or via MCP). Suno caps lyrics at 5,000 characters,
+   so long songs are two generations with an identical style prompt, crossfaded.
+3. **Timing map**: Whisper word timestamps on the song, with words taken from the script (Whisper
+   mishears sung lyrics). **The audio is the master clock.**
+4. **Character sheets**: 4 views per character on plain background; a new sheet when the character
+   changes (before/after). Identical style description in every prompt. GPT Image 2 recommended for
+   consistency; Nano Banana Pro as the cheaper option.
+5. **Shot sheets**: one image = a 2×2 grid of four moments of the same shot, planned from the timing
+   map. Generate one, check, then the rest.
+6. **Video**: Seedance 2.0 reads the shot sheet as a storyboard (+ character sheets as references),
+   with per-frame timing; told twice the grid must never appear. **Clip length comes from the timing
+   map (8s, 14s…), never a fixed number.** Clips silent. First 1–2 clips alone, then small batches.
+7. **Edit by Claude with ffmpeg**: cut each clip to its slot, song as the only audio, trim any flash
+   of the grid at clip starts, edit progressively while later clips generate. Captions last.
+
+**Why this matters for us:** it is a Claude-orchestrated pipeline that fixes the two biggest problems
+in the ChatGPT project — paper timing (here the recorded audio sets every duration) and
+shot-by-shot continuity (character sheets + shot sheets as references). It also replaces Franky's
+first/last-frame chaining with multi-moment shots per clip. Unverified: that Seedance 2.0 on
+Higgsfield accepts the same reference setup, and that GPT Image 2 is reachable from here.
+
+## Addendum C — Kelsey's `waypoint-folk-song-studio` skill (v2.3, read in full)
+
+A songwriting skill: takes a "Song Blueprint" and outputs Suno lyrics + style prompt for a
+sub-3-minute Appalachian folk song (fixed male high-lonesome tenor persona), with hard validation.
+
+**Worth carrying into the story engine (these are Kelsey's own rules, and they are better than
+anything in the references):**
+- **Agency Hard Law**: the character is complicit in staying; there is an open door they could walk
+  through; ≥60% of lines have the character as the subject ("I keep saying yes", not "they expect
+  too much"). This fixes Resilia's passive "frozen" hero and ChatGPT's "career was done to him".
+- **Hope must be earned**: pain → acknowledgment → decision → uncertain hope. That is also the only
+  compliant ending for a franchise ad: a decision, not an outcome.
+- **Specificity creates universality** ("the badge scanner that knows my name better than my kids
+  do"), duality left unresolved, greeting-card test, no pronoun fog, single-idea lines,
+  screenshot line in the first 20s, voice in the first 3s.
+
+**What doesn't fit as-is:** 240-word / 3-minute song format with no CTA or brand; a locked rural
+male persona (our avatar is 40–60, men and women, corporate); Appalachian sound locked; Suno-mobile
+formatting; no timing map or visual side.
+
+**Verdict:** don't use the skill directly for ads. Lift its craft rules into the engine's script
+standard, and keep it (or a fork with a new voice/persona) as the lyric writer if we test a sung
+format.
