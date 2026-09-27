@@ -85,3 +85,48 @@ Peak = 01:00–04:00 and 06:00–10:00 UTC, Mon–Fri; everything else is half p
   escalate with lower angles. Edit out the model's unearned slow motion.
 - **Say/show irony** (a child's cheerful line over images that tell the truth) — cheap, original.
 - Caution: templates from any creator's community become that community's average look.
+
+### Higgsfield's own channel — 4K ad workflow (3rDs6FhFoUQ) + 8-style animated short (zYPgz6sOy74)
+- **Motion-test assets before locking:** same simple prompt, 2 heroes × 2 locations, one variable at a
+  time. A face that works as a still can fail in motion.
+- **One face per reference image** — erase the face from the full-body panel, or the model is unsure
+  which to follow. Gray background for sheets; locations at a three-quarter angle.
+- **State sheets, not verbal modifiers:** a separate "wet" sheet beat "sweat him up" in words.
+  For us: a *depleted* and an *owner* version of the protagonist as separate references.
+- **Every image edit costs quality** — composite the edited part back onto the original.
+- **A Claude shotlist as one document:** a style prefix glued to every prompt, scene-level
+  overrides, named prompts (1A, 1B…) edited by ID, asset names identical to Higgsfield Elements.
+- **Layout map** (a schematic of the location, with scale) when text can't pin geography down.
+- **Choreography and camera spelled out move by move / rig by rig;** "he dances" is not direction.
+- **Continuity by construction:** a recurring gesture as the match cut between scenes; the previous
+  scene's video and prompt passed into the next.
+- **The edit is selection:** "the best few seconds out of 100 tries."
+- Idea for Waypoint (reader's, not the video's): **one deliberate style switch** — the corporate world
+  flat and desaturated, the second act warm and tactile.
+
+### Fraser Cottrell (claymation Meta ad), Roboverse (Claude + Higgsfield MCP), Youri van Hofwegen (credits)
+- **Reference legend** at the top of every video prompt ("Image 1 = storyboard sheet, Image 2 =
+  product"), upload order matching it. **The CTA end card is its own generated asset** in the same
+  style. Fraser: "lean ridiculous, admit it's AI" (unverified; tone needs Kelsey's call).
+- **The Higgsfield MCP (same tool set this session has):** Claude asks model/ratio/resolution/
+  duration, summarises before spending, revises a single clip by plain-English note, saves
+  characters/locations as Elements, proposes needed location refs. **Warning:** its default
+  "film director" prompts drift to stock cinema vocabulary (god rays, anamorphic flare, teal grade)
+  — the exact average we ban. We supply our own style bible and negative list.
+- **Keyframes first; motion prompts carry only motion, camera and sound** ("describing anything a
+  second time gives the model a chance to change it"). Relight the character into each scene.
+  Describe movement, not equipment ("FPV drone" puts a drone in frame); describe action, not poses.
+- **Ban the AI look item by item** (no HDR, no oversaturation, no plastic skin…) and add "unbranded".
+- **Credit discipline:** read the live cost before submitting (same shot: 15 vs 110 credits by
+  settings); draft risky shots at 480p (≈20 credits vs 176 at 4K), judge only timing and physics,
+  upscale the keeper.
+- All three are sponsored/affiliate; no Meta performance data shown anywhere.
+
+## 4. What batch 3 changes in the plan
+1. **Anchor images before video** is now a hard step (Jack, Higgsfield, Youri all converge).
+2. **Style anchor first:** one hero image defines the world; bake-off image models for it and pick
+   the least generic.
+3. **Audio references carry performance and voice** (own performance, or cut-out generated lines).
+4. **Draft at 480p, upscale keepers.**
+5. **Our own style bible + negative list are mandatory** — every tool's default taste, including the
+   Higgsfield MCP's, is the average we're refusing.
