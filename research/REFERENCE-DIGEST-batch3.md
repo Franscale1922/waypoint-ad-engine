@@ -65,6 +65,8 @@ Peak = 01:00–04:00 and 06:00–10:00 UTC, Mon–Fri; everything else is half p
   draft still goes through Claude's compliance and doctrine review before production.
 - The API key location is not yet known to this project (not in the shell environment or
   shell profiles as of 2026-09-27). It belongs in a project `.env` (gitignored).
+  _Update 2026-09-27 (Phase 1): the key is now in `.env` and verified live — `/user/balance` returned
+  $1.99 available, `/models` lists `deepseek-v4-pro` and `deepseek-flash`._
 
 ## 3. vidIQ tutorial sweep (in progress)
 ### Dan Kieft — Pixar-level Seedance 2.5 (8gQ6qUmKjHg) + realism (Zo8KaTs0l6k), full transcripts

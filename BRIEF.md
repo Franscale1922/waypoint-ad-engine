@@ -46,7 +46,7 @@ captivating stories through animation, repeatably.
 **Phase 0 (reference intake) is complete** unless Kelsey adds more references.
 
 Read in this order:
-1. `CLAUDE.md` — the Anti-Average Doctrine, tone, draft stances, model roles, compliance.
+1. `CLAUDE.md` — the Anti-Average Doctrine, tone, Waypoint's stances, model roles, compliance.
 2. `research/REFERENCE-DIGEST-batch4-positioning.md` — positioning, the banned "average", the
    audience's own words, the unclaimed ground, craft from human-made animation. **Start here for story.**
 3. `research/REFERENCE-DIGEST-batch3.md` — production pipeline lessons + DeepSeek settings.
@@ -65,23 +65,29 @@ Decided:
 - Pipeline shape (to be proven by hand on ad #1, not built as a system first): style-anchor image →
   character/state sheets → anchor stills per scene → recorded VO/audio sets timing → Seedance video
   from references → ffmpeg edit → watch-QA. Draft at 480p, upscale keepers.
+- Stances (T1, 2026-09-27): five kept/rewritten, one killed — recorded in `CLAUDE.md` POINT OF VIEW.
+- The Unfinished Song (2026-09-27): one entry in the ad #1 concept pool, no head start. It competes
+  on the same scorecard as every new concept.
 
 Open (Kelsey's calls):
-- Keep/rewrite/kill the six DRAFT stances in `CLAUDE.md`.
 - Visual signature: decided by a bake-off, not on paper (candidate directions in batch 4 §5).
-- The Unfinished Song: keep up to the three memories; everything after is open — or replace it
-  with a story from the unclaimed ground.
 
-**Next: Phase 1 — story bible + first story** (Fable 5.1 · high). Generate wide from the unclaimed
-ground (DeepSeek + Claude), refuse the named average, pick one sharp story for ad #1.
+**In progress: Phase 1 — story bible + first story** (Fable 5.1 · high). Generate wide from the
+unclaimed ground (DeepSeek + Claude), refuse the named average, pick one sharp story for ad #1.
+Phase 1 steps (plan approved 2026-09-27): A. record T1 ✅ → B. `story/STORY-BIBLE.md` (≤~150 lines;
+doubles as DeepSeek's system prompt) → C. name the average in `ads/001/RECORD.md`; ~30 DeepSeek +
+~10 Claude concepts + the Unfinished Song → `ads/001/CONCEPTS.md` (script: `tools/deepseek.py`,
+v4-pro, thinking off, temp 1.4) → D. score, show Kelsey top 3 + one recommendation, Kelsey picks →
+E. `ads/001/STORY.md` (≤3 revision rounds; `say -r 150` timing proxy) → F. two-stage review at
+Opus xhigh (discharges T2) → G. update this file, commit, hand off to Phase 2.
 Unverified: Higgsfield MCP's live models/costs (check with a read-only call before Phase 2).
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
 
 | # | Item | Trigger | Next step |
 |---|---|---|---|
-| T1 | Kelsey keeps/rewrites/kills the 6 DRAFT stances in `CLAUDE.md` | First turn of Phase 1 | Ask Kelsey in plain English; record answers in `CLAUDE.md`, remove "DRAFT" |
-| T2 | Two-stage adversarial review (Codex, then independent Claude subagent) of `CLAUDE.md` doctrine + tone + the pipeline plan — **not run this session**; only self-checked (internal, never-run docs) | Before the first paid generation (start of Phase 2) | Run it at Opus xhigh; fix or decline each finding with a reason |
+| T1 | ~~Kelsey keeps/rewrites/kills the 6 DRAFT stances~~ **DONE 2026-09-27** — recorded in `CLAUDE.md` | — | — |
+| T2 | Two-stage adversarial review (Codex, then independent Claude subagent) of `CLAUDE.md` doctrine + tone + the pipeline plan — **not run yet**; only self-checked (internal, never-run docs) | End of Phase 1, before the first paid generation | Phase 1's final review covers it: Codex payload includes `CLAUDE.md` + `BRIEF.md` + story bible + ad #1 story; fix or decline each finding |
 | T3 | Verify the Higgsfield MCP live: models available (Seedance 2.0/2.5, Seedream 5.0, GPT Image 2, Kling), costs, Elements, audio references | Start of Phase 2, before any generation | Read-only calls (`models_explore`, `balance`, `show_reference_elements`); record results here |
 | T4 | Visual-signature bake-off (same frame in 2–3 image models × 2–3 candidate directions from batch 4 §5) | Phase 2, after the story is chosen | Kelsey picks by eye; lock it in `CLAUDE.md` rule 7 |
 | T5 | Codex/GPT role: configured model `gpt-6-astra` is unverified; decide critic-only vs. also images | Phase 2 bake-off / first review | `codex --version` + one small critique run |

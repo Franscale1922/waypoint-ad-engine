@@ -65,14 +65,18 @@ punchline depends on a racial stereotype — no, including when it's "subtle", a
 through a less-filtered model to get around this. The allowed version of that edge: the joke lands
 on the *assumption* someone makes, not on the group.
 
-### POINT OF VIEW — Waypoint's stances (DRAFT, awaiting Kelsey's approval — do not treat as settled)
-Candidate stances for Kelsey to keep, rewrite or kill:
+### POINT OF VIEW — Waypoint's stances (decided by Kelsey, 2026-09-27)
+Every ad carries at least one of these:
 - Most people shouldn't buy a franchise — and a good advisor tells them so.
-- A corporate job isn't safe. It only feels safe until the reorg email.
 - Your employer isn't the villain. Your waiting is.
 - Picking a brand first is backwards. Figure out what you want your Tuesday to look like.
-- A franchise expo is the worst place to choose a franchise.
+- Meet brands at an expo. Never choose one there.
 - "Passive income" is mostly a lie; plan to work.
+
+Killed: "A corporate job isn't safe — it only feels safe until the reorg email." It sells fear, close
+to the "employment is a trap" framing already rejected (`research/REFERENCE-DIGEST-v1.md` §3), and
+"your waiting is" says it better. The expo stance was rewritten from "a franchise expo is the worst
+place to choose a franchise", which attacked Second Act Expo, Waypoint's own lead-gen channel.
 
 ---
 
