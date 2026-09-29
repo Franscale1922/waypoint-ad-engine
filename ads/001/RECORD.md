@@ -131,3 +131,8 @@ obedient, cheapest); decide the finishing model per shot after the ad is cut. Cl
   10 versions) supplied "Nobody can sell you more weekends", the "schedule vs decision" line and the
   pull-back-to-the-miniature idea; "Anyone who says so is lying" softened to "Don't trust anyone who
   tries" (accusing competitors of lying is a compliance risk).
+- **Voice round 2 (2026-09-29):** 18 library voices on `eleven_v3` (stability 0.5 "natural", per-line
+  performance tags), cast by role: narrator 1–8 (4 women, 4 men), Chloe 9–13, Arthur 14–18. Excluded:
+  regional accents, DJ/promo (cheesy), deep trailer baritones (the average). Every clip transcribed
+  locally (claude-video-vision, offline Whisper): all 18 word-exact, no tags spoken. The ElevenLabs
+  key lacks speech-to-text permission. Reel: `ads/001/vo/voice-auditions-round2.mp3` (local).
