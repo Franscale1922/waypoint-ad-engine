@@ -94,8 +94,8 @@ hardest shots first: S3 kitchen (three peg dolls), S6 the amber TUESDAY, S8 the 
 Image 2.5 with `bake-off/11.png` as the style reference; (3) every shot to Seedance 2.0 fast 480p,
 cut to the VO with ffmpeg, watch it with video-vision; (4) finish keepers at 1080p; (5) the single
 two-stage adversarial review (T2) on the cut; (6) organic Facebook post with the /scorecard link.
-**Blocked on Kelsey: T6** — create the empty private repo `Franscale1922/waypoint-ad-engine` on
-github.com; then I add the remote, push, stamp, and add the Mini step.
+**Voice (2026-09-29):** 10-voice audition reel sent (`ads/001/vo/voice-auditions-reel.mp3`, local);
+ElevenLabs shared-library voices work directly by id, no account change. Waiting on Kelsey's pick.
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
 
@@ -106,6 +106,6 @@ github.com; then I add the remote, push, stamp, and add the Mini step.
 | T3 | ~~Verify the Higgsfield MCP live~~ **DONE 2026-09-27** for images (see `ads/001/RECORD.md`); video models/costs still to check at the first video test | — | `models_explore type=video` before the video test |
 | T4 | Visual-signature bake-off — **rendered 2026-09-27** (3 directions × 4 models, `ads/001/bake-off/`) | Now | Kelsey picks by eye; lock it in `CLAUDE.md` rule 7 |
 | T5 | Codex/GPT role: configured model `gpt-6-astra` is unverified; decide critic-only vs. also images | Phase 2 bake-off / first review | `codex --version` + one small critique run |
-| T6 | No git remote. **Blocked 2026-09-27:** SSH pushes as Franscale1922 but `gh` is signed in as another account and the only stored GitHub token is dead, so I cannot create the repo | As soon as Kelsey creates the empty private repo `Franscale1922/waypoint-ad-engine` on github.com | Then: add remote, push, run `stamp-git-safety.sh`, add to `~/Projects/MINI-TODO.md` |
+| T6 | ~~No git remote~~ **DONE 2026-09-29**: `Franscale1922/waypoint-ad-engine` (public for now; Kelsey makes it private when development stops), pushed, stamped, Mini clone staged as MINI-TODO #29 | — | — |
 | T7 | Global `~/.claude/CLAUDE.md` model roster says Opus 5 / Fable 5; this machine has Opus 5.5 / Fable 5.1 (adjacent issue, not blocking) | Next dotfiles/global-rules edit session | Update roster in the canonical file via dotfiles, re-stamp |
 | T8 | `references/` is 4.8 GB, gitignored, local only (Franky packet, Ori videos, tutorial downloads) | When T6 is done or disk matters | Decide: keep local, move to Drive, or prune the 3 GB of Ori tutorials already digested |
