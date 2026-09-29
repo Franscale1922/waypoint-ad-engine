@@ -5,6 +5,12 @@ contains fiction rules only: no client, candidate or prospect data ever goes in 
 Sources: `CLAUDE.md` (binding), `research/REFERENCE-DIGEST-batch4-positioning.md`, batch 2 Addenda
 A + C, digest v1 §3. Visual style is NOT set here; a bake-off decides it (BRIEF T4)._
 
+## 00. Emotion first (Kelsey, 2026-09-29, overrides anything below that conflicts)
+Every ad opens with an emotional story that binds the viewer before any Waypoint message or service
+appears. Wit and sarcasm are texture inside that story, never a substitute for it. First audit
+question for every concept: does the first 20 seconds make a 50-year-old feel something before they
+know it's an ad? A clever concept that fails this fails.
+
 ## 0. What a Waypoint ad is
 A 30–60 second piece of animated fiction about one person, 40–60, in the last stretch of a corporate
 life, that ends on a decision and a way to find out more. It is not about brands, money or Waypoint.
@@ -126,6 +132,7 @@ most people; say so. Landing-page wording must match what the ad promised (open 
 ## 9. Blandness audit (score every concept, draft and revision; a fail here is a fail)
 | # | Check | Pass looks like |
 |---|---|---|
+| 0 | Emotional connector | The first 20s bind the viewer to a person before any message; say what they feel |
 | 1 | Stance present | Which stance, and where a competitor broker would flinch |
 | 2 | Average named and refused | The two-line "100 other ads" note exists and nothing in it survived |
 | 3 | Swap test | Another broker's logo on the end card breaks it; say why |

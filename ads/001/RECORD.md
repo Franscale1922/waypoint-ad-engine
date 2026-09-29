@@ -118,3 +118,16 @@ Watched frame-by-frame with claude-video-vision (8 samples each).
 **Verdict: the Office Diorama signature holds in motion.** Draft in Seedance 2.0 fast 480p (most
 obedient, cheapest); decide the finishing model per shot after the ad is cut. Clips local:
 `bake-off/video-seedance2.mp4`, `bake-off/video-kling3.mp4`. Signature locked in `CLAUDE.md` rule 7.
+
+## Rejection and rebuild (2026-09-29, Kelsey)
+- **"Nine-Thirty" rejected.** Kelsey: we need an emotional story before the story, an emotional
+  connector that binds the audience before any message or service. "We were on a closer track with"
+  the Unfinished Song. My scorecard had no check for emotional pull; that is the miss (memory:
+  `feedback-emotion-first`). Nine-Thirty's STORY.md is in git history (commit 600abc3).
+- **All voices rejected** (Roger, Chris, Eric, Brian, Callum, Bill + 10 library voices): too mundane,
+  low energy. Want life and energy, no accent, not cheesy. My settings (stability 0.6, style 0.15,
+  speed 0.95) flattened every read.
+- **Rebuild:** STORY.md v7 = the Unfinished Song, first half kept, new bridge. DeepSeek (1.1, 2 calls,
+  10 versions) supplied "Nobody can sell you more weekends", the "schedule vs decision" line and the
+  pull-back-to-the-miniature idea; "Anyone who says so is lying" softened to "Don't trust anyone who
+  tries" (accusing competitors of lying is a compliance risk).

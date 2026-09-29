@@ -1,103 +1,83 @@
-# Ad 001 — "Nine-Thirty" — story, script, shot list (v1, 2026-09-27)
+# Ad 001 — "The Unfinished Song" — story, script, shot list (v7, 2026-09-29)
 
-_Single source of truth for production. Written with the frame in hand (`bake-off/11.png`) and the
-signature locked (Office Diorama, `CLAUDE.md` rule 7). Fiction. Revision log at the bottom._
+_Rebuilt from the ChatGPT-era script v6.1 after Kelsey rejected "Nine-Thirty" (dry, witty, no
+emotional connector; kept in git history). First half = Kelsey's locked material. The bridge is new.
+Signature: Office Diorama (`CLAUDE.md` rule 7). Fiction._
 
-## Logline
-Every morning at 9:07 a facilities planner takes the elevator down to P2 and sits in his parked car,
-engine off, "just seeing how long it takes" — until the day he admits he's spent four years
-rehearsing a drive he's never taken, and writes down where it goes.
+## Why this shape
+Emotional story first, message second (Kelsey, 2026-09-29). The first 30 seconds are a father and
+daughter and nothing else; Waypoint doesn't exist until the set is revealed as a miniature at ~0:44.
+
+## The average, refused (rule 1)
+The obvious dad-and-daughter regret ad: tears, a slow-motion hug, sad piano, "time is the one thing
+you can't get back", "it's never too late", then "start your franchise journey" over a sunrise and a
+storefront. **Banned for this piece:** tears, the hug, piano (they play guitar), any promise or hint
+that a business gives time or family back, "never too late", "time you can't get back", a narrator
+who moralises about fatherhood.
 
 ## Stance
-**3. Picking a brand first is backwards. Figure out what you want your Tuesday to look like.**
-Where a competitor broker flinches: no brand is ever named, no business is shown, and the CTA opens
-with "most people shouldn't buy a business" (stance 1).
+**2. Your employer isn't the villain. Your waiting is.** Carried by "next weekend", the villain of the
+whole ad. Closed by **1. Most people shouldn't buy a franchise.** Where a competitor flinches:
+"Nobody can sell you more weekends" says out loud the promise every other franchise ad implies.
 
-## The average, refused (from RECORD.md, rule 1)
-No layoff, no reorg email, no rain window, no sunrise, no storefront, no name on a door, no "bet on
-yourself", no sad piano, no wise narrator, no free consultation. Nobody wrongs him. He never leaves
-the garage. The only villain is a clock he keeps checking.
+## Characters
+ARTHUR, early 50s, corporate (years of travel). Peg doll, dot eyes, no mouth, grey cardigan.
+CHLOE, 22, moving out. Peg doll; at 2, 10 and 16 a smaller peg, same paint, same hair ribbon.
+The sheet music: her crayon marks from when she was small, his ink. It is the bookend.
 
-## Shape
-Arc B, the refrain: **"I'm just seeing how long it takes."** Said to a coworker (a dodge), to a
-spouse (a habit), and finally answered (a decision). Bookend object: the amber radio clock, 9:07 at
-the open, 9:30 at the turn. Accent colour: **amber**, and only amber — the clock digits (time
-spent), then the word he writes in the notebook (time chosen), then the URL on the end card.
+## Script (84 words)
+| Cue | Time | Speaker | Line | Words |
+|---|---|---|---|---:|
+| A | 1.0–5.0 | Narrator | His daughter was moving out. Their song still wasn't finished. | 10 |
+| B | 5.5–10.0 | Narrator | Years of corporate travel. A career he was proud of. | 10 |
+| C | 12.0–17.0 | Chloe | I guess we always thought we'd finish it next weekend, Dad. | 11 |
+| — | 19.5–27.5 | (silent) | Three memories. | — |
+| D | 29.5–31.5 | Arthur | How about tonight? | 3 |
+| — | 31.5–37.5 | (music) | They play. The unfinished bars, finished. | — |
+| E | 38.0–43.5 | Arthur | I used to think "next weekend" was a schedule. Turns out it was a decision. | 14 |
+| F | 44.0–51.0 | Narrator | Nobody can sell you more weekends. Don't trust anyone who tries. But you can stop spending them waiting. | 21 |
+| G | 52.0–58.5 | Narrator | Most people shouldn't buy a franchise. Find out which one you are. Two minutes. Free. | 15 |
 
-## Character
-RAY, 47, facilities planner, Atlanta. Peg doll, two dot eyes, no mouth, navy quarter-zip, blue
-lanyard, company badge. Dry. Never pathetic, only late. He does everything to himself: the elevator,
-the timing, the four years. DAVE from Compliance and RAY'S WIFE are peg dolls too (dot eyes, no
-mouth); they are reasonable people. Nobody in this ad is wrong except Ray's waiting.
+Changes from v6.1: cue B was "Years of corporate travel had built a successful career—but at a quiet
+personal cost" (it told the audience what to feel; the ChatGPT review had proposed this shorter line).
+Cues E–G replace "The song wasn't the only thing he'd kept putting off / after two decades building
+someone else's business, it was time to stop waiting and explore building something of his own /
+Take Waypoint's business readiness assessment." Cues A, C, D and the memories are unchanged.
 
-## VO script (Ray, first person, dry; 149 words)
-| Cue | Line |
-|---|---|
-| 1 | Every morning at 9:07 I take the elevator down to P2 and sit in my car. Engine off. I'm not leaving. I'm just seeing how long it takes. |
-| 2 | Dave from Compliance asked what I do down there. I told him. He nodded like it was a project. |
-| 3 | My wife asked too. Same answer. She stopped asking about work in March. Not a grudge. Efficiency. |
-| 4 | Twenty-two minutes. I've timed it. Desk to on-ramp. I could be somewhere by nine-thirty. |
-| 5 | The building's fine. Dave's fine. The problem is I've spent four years rehearsing a drive I've never taken. |
-| 6 | So I stopped timing the drive, and wrote down where it goes. Not a business. A Tuesday. |
-| 7 | Turns out "how long it takes" is about four years. And one Tuesday. |
-| 8 (CTA) | Most people shouldn't buy a business. Find out if you're most people. Two minutes. Free. From a former franchisor. |
+## Shot list (all Office Diorama: card sets, peg dolls, one practical lamp, fingerprint in every set)
+| # | Time | Picture |
+|---|---|---|
+| 1 | 0–5 | Living room at dusk, one floor lamp. Chloe carries a packing box past Arthur, who sits with a guitar; the sheet music on the coffee table. |
+| 2 | 5–11 | The sheet music close: crayon marks, ink, the last bars blank. A packed suitcase by the door, soft focus. |
+| 3 | 11–19 | Chloe, box down, picks up the music. Her line. Held after it. |
+| 4 | 19.5–22 | Memory: toddler peg by a closing front door; a roller bag's wheels leave. |
+| 5 | 22–24.5 | Memory: split frame, Arthur alone at an airport gate / ten-year-old Chloe holding a basketball trophy. |
+| 6 | 24.5–27.5 | Memory: teenage Chloe alone under a DADDY–DAUGHTER DANCE banner. |
+| 7 | 27.5–31.5 | Present. Arthur looks at the suitcase, then at her. "How about tonight?" He pats the cushion. |
+| 8 | 31.5–38 | Two-shot, held 6s: they play; she hums. The only music in the ad is theirs. |
+| 9 | 38–44 | Arthur writes the last bar in ink beside her crayon. His line. |
+| 10 | 44–51 | **Pull back, one continuous move:** the living room is a miniature on a workbench; the practical lamp, card walls, the fingerprint on a wall. The song keeps playing inside the model. Narrator F. |
+| 11 | 51–60 | Tabletop beside the model: a card, typed: "The honest readiness quiz, from a former franchisor. waypointfranchise.com/scorecard". Narrator G. |
+Brand first appears at 0:51 (85%). Held shots ≥6s: 3, 8. Accent colour: the crayon (a single
+colour, TBD in the stills; one colour, one job: her childhood marks, then the finished bar).
 
-Agency check: 15 of 17 sentences with a subject have Ray as the subject (88%; the law wants ≥60%).
-Screenshot line inside 20s: cue 1's last sentence. Voice in the first 3s: yes.
+## CTA facts (only non-fiction)
+"Two minutes" and "free": the quiz page ("5 questions. 2 minutes."; "100% free to candidates").
+"From a former franchisor": the page's own description. "Most people shouldn't buy a franchise":
+opinion (stance 1). "Nobody can sell you more weekends": opinion; the opposite of an outcome claim.
+Landing page https://www.waypointfranchise.com/scorecard is a franchise readiness quiz, and the ad
+now says "franchise" (v6.1's "business readiness assessment" mismatched it).
 
-## Shot list (retimed 2026-09-27 from the ElevenLabs read, voice Roger: 52.1s of speech; slots below add air)
-| # | Time | Set (all Office Diorama) | What's on screen | Prop / state | Cue |
-|---|---|---|---|---|---|
-| S1 | 0:00–0:10 | P2 garage (built: `bake-off/11.png`) | **Held 9s**, locked off. Ray in the car, hands on the wheel. Clock 9:07 → 9:08 at ~4s. | clock 9:07→9:08 | 1 |
-| S2 | 0:10–0:17 | Open-plan office, cut card; Ray's desk | Dave leans on the cubicle wall holding a mug. Ray's dot eyes do nothing. Dave nods once. | badge on lanyard on desk | 2 |
-| S3 | 0:17–0:25 | Kitchen table, night, one practical lamp | Wife across the table, a second chair, two plates. She doesn't look up. Held. | second chair present | 3 |
-| S4 | 0:25–0:32 | P2 garage, same frame as S1 | Clock reads 9:29 → 9:30 at the line "nine-thirty". Nothing else moves. | clock 9:29→9:30 | 4 |
-| S5 | 0:32–0:40 | P2, tighter: hands, wheel, clock | **Held 8s.** Hands don't move. | engine off | 5 |
-| S6 | 0:40–0:47 | P2, over the shoulder: glovebox open | A small notebook on the passenger seat. His hand writes one word in **amber** ink: TUESDAY. | notebook, amber pen | 6 |
-| S7 | 0:47–0:52 | P2, same frame as S1 | Clock 9:30. Ray's head, for the first time, turns to the windscreen. Not to the exit. | clock 9:30 | 7 |
-| S8 | 0:52–1:00 | P2, the cupholder | Phone in the cupholder shows the readiness quiz. Card-texture end card: **waypointfranchise.com/scorecard** in amber. Brand at 86%. | phone; end card | 8 |
-Sum: 60s. Held shots ≥8s: S1 (10s), S3, S5. Brand first appears at 0:52 (87%). Cuts: 7 in 60s.
-Measured cues (Roger, multilingual_v2, speed 0.95): 9.2 · 6.2 · 7.3 · 5.8 · 6.9 · 5.3 · 4.0 · 7.3 s.
-Files: `ads/001/vo/cue1-8-roger.mp3`, stitched `nine-thirty-roger-v1.mp3` (local only).
+## Voices (open)
+Narrator: alive, warm, no regional accent, not an announcer. Chloe: 22, natural. Arthur: 50s,
+tender and a little wry on E. All v1 voices rejected by Kelsey for low energy.
 
-## Devices used (bible §6)
-Bookend object (clock) · refrain that turns · one accent colour with a job · two held shots ≥8s ·
-medium admitted (card, glue seams, fingerprint on the pillar, one practical lamp) · faces that do
-less (peg dolls) · brand late and inside the world (a phone in a cupholder).
-
-## CTA and its facts (the only non-fiction)
-- "Two minutes" — the quiz page says "5 questions. 2 minutes." (read live 2026-09-27).
-- "Free" — the page: "the quiz and all consulting services through Waypoint are 100% free to candidates."
-- "From a former franchisor" — the page's own description line.
-- "Most people shouldn't buy a business" — a stated opinion (stance 1), not a factual claim; no outcome implied.
-- Landing page: https://www.waypointfranchise.com/scorecard (HTTP 200, verified). Post copy for the
-  organic Facebook post carries the link; the end card shows it.
-- No dollar figures, hours, income, payback or outcome anywhere in the ad.
-
-## Production notes
-- Draft every shot in Seedance 2.0 fast 480p from a GPT Image 2.5 still (proved in RECORD.md);
-  finish keepers in Kling 3.0 or Seedance std at 1080p.
-- **Hardest shots, in order:** S3 (a second and third peg doll on a new set: identity + set
-  consistency), S6 (legible handwritten TUESDAY in amber), S8 (a legible URL on a card end card).
-  Test S3 and S6 stills before anything else.
-- VO: ElevenLabs, rendered cue-by-cue 2026-09-27 with **Roger** (laid-back, resonant, middle-aged
-  American) as the first read; Chris and Eric are the alternates if Kelsey wants drier or warmer.
-  Kelsey has not yet approved the voice.
-- Sound as a second idea: no music under S1–S5. The garage's fluorescent hum only. A single low
-  piano note is banned. Consider silence under S7.
-- 9:16 master; 1:1 crop must keep the clock in frame (compose S1/S4/S7 with the clock centre-right).
-
-## Blandness audit (bible §9), v1
-| Check | Evidence |
-|---|---|
-| Stance present | 3 in the story, 1 in the CTA. Flinch: "most people shouldn't buy a business" as the first CTA line. |
-| Average named and refused | Banned list in RECORD.md; none of it appears (no layoff, no exit, no storefront, no narrator). |
-| Swap test | Another broker's logo fails: the ad sells no brand and opens its CTA by turning people away. |
-| Signature applied | Office Diorama throughout; amber as the only colour; two 8s holds; the fingerprint on the pillar. |
-| One memorable thing | "Twenty-two minutes. I've timed it. I could be somewhere by nine-thirty." Image: the clock flipping to 9:08 while nothing else moves. |
-Compliance: clean (see CTA facts). Hardest shot: S3.
+## Hardest shots
+10 (a continuous pull-back from inside the room to a workbench miniature, with the lamp and scale
+changing), 5 (split frame), and one Chloe held at four ages (the peg design makes this easier than
+clay: same paint, same ribbon, smaller peg).
 
 ## Revision log
-| Round | What changed | What got more ordinary? | Reverted? |
-|---|---|---|---|
-| v1 | — | — | — |
+| Round | What changed | What got more ordinary? |
+|---|---|---|
+| v7 | Bridge and CTA replaced; cue B shortened | Nothing: cue B lost a moral, the bridge lost a cliché and gained a stance |
