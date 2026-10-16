@@ -1,6 +1,7 @@
 # Waypoint Cinematic Ad Engine — project instructions
 
-Animated, emotionally driven story ads for Waypoint (franchise advisory under FranChoice). Audience:
+Emotionally driven story ads for Waypoint, animated or with photorealistic people (allowed by
+Kelsey, 2026-10-15), (franchise advisory under FranChoice). Audience:
 40–65, men and women, "corporate refugees" (band widened from 40–60 by Kelsey, 2026-10-15). Facebook-first, 9:16 or 1:1. Ads are fiction carrying a
 business-ownership lesson, then a CTA. Goal of everything: **audience interest → account growth →
 leads.** Handoff/state: `BRIEF.md`. What we've learned: `research/`. Reference material in
@@ -54,6 +55,11 @@ income claims, no fake testimonials presented as real, nothing untrue about Wayp
    **GPT Image 2.5** (followed the brief best in every row; Seedream adds expression, Nano Banana 2
    drifts on casting). Reference frame: `ads/001/bake-off/11.png`. Still open until a video test:
    frame-rate/texture behaviour in motion; end-card typography.
+   **AMENDED 2026-10-15 (Kelsey): photorealistic people are allowed.** The Office Diorama stays the
+   locked look for stylized ads, but an ad may use photorealistic people instead; the choice is
+   made per ad and logged in its record. The default-AI-look bans above still apply to photoreal
+   work. Faces and voices are invented, never a real person's (Compliance). How a photoreal ad
+   still reads as Waypoint before the logo is open: decide it by testing, like the diorama was.
 8. **Model choice is a distinctiveness lever.** Render key frames in more than one image model and
    pick the least generic, not the most polished (a Sept 2026 tutorial found GPT Image 2 "safe" and
    Seedream more interesting for stylized work — test, don't assume).

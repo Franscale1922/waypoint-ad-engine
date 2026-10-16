@@ -136,7 +136,7 @@ most people; say so. Landing-page wording must match what the ad promised (open 
 | 1 | Stance present | Which stance, and where a competitor broker would flinch |
 | 2 | Average named and refused | The two-line "100 other ads" note exists and nothing in it survived |
 | 3 | Swap test | Another broker's logo on the end card breaks it; say why |
-| 4 | Signature applied | Devices from §6 named; visual signature once T4 locks it |
+| 4 | Signature applied | Devices from §6 named; the ad's look named: Office Diorama, or photorealistic people (both allowed, `CLAUDE.md` rule 7) |
 | 5 | One memorable thing | The single image or line a viewer would repeat; quote it |
 Plus: compliance risk (§2) and the **hardest shot** named, so production tests it first.
 Revisions may fix clarity, continuity and compliance. Each round logs "what got more ordinary?"

@@ -5,7 +5,8 @@ _Started 2026-09-26. Living doc: update it at every phase boundary (it is the ha
 ## Goal
 An animated ad creator for promoting **Waypoint** (franchise advisory, under FranChoice).
 Not templated motion graphics: a **cinematic creative engine** that tells emotionally
-captivating stories through animation, repeatably.
+captivating stories through animation or photorealistic people (photoreal allowed by Kelsey,
+2026-10-15; `CLAUDE.md` rule 7), repeatably.
 
 ## Ground rules
 - **Reference material is learning, not law.** Everything in `references/` is something
