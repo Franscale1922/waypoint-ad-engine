@@ -8,7 +8,7 @@ rule 7). Fiction._
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 30 seconds are a father and
 daughter and nothing else; Waypoint doesn't exist until the pull back at ~0:44 finds his packed
-roller bag by the door, still waiting for tomorrow's flight.
+suitcase by the door, still waiting for tomorrow's flight.
 
 ## The average, refused (rule 1)
 The obvious dad-and-daughter regret ad: tears, a slow-motion hug, sad piano, "time is the one thing
