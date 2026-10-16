@@ -58,7 +58,12 @@ captivating stories through animation or photorealistic people (photoreal allowe
   (2026-09-26). **Everything after the memories is open: cues D to G, shots 7 to 11** (corrected
   2026-10-16, Kelsey: "I don't recall revising past that point"). "How about tonight?" and the
   playing come from the ChatGPT v6.1 draft and were never reviewed by Kelsey; the bridge and ending
-  were rebuilt by Claude and DeepSeek in v7 and v8. Decide all of it with Kelsey first. The v8 shot
+  were rebuilt by Claude and DeepSeek in v7 and v8. Decide all of it with Kelsey first.
+  **Later the same day: `ads/001/STORY.md` v9** writes out the back half Kelsey steered toward
+  ("Tonight", about 2:35). Approved by Kelsey: the CTA line "Not next weekend. The first step takes
+  two minutes. See if you're ready.", no "free" or who-pays in the ad, the legal pad with its notes,
+  and Kelsey's 2019 "Start a Business Now" brochure. Everything else in the back half is a Claude
+  draft awaiting Kelsey's read (STORY.md lists what). The v8 shot
   list and the 84 word script are drafts. Voices are still open (round 2 reel, 18 voices); the final
   VO waits for the locked script.
 - **Watch the ending.** Every version so far broke at the turn to Waypoint. The ending is a creative
