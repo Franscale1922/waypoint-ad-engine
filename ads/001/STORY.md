@@ -5,6 +5,11 @@ emotional connector; kept in git history). First half = Kelsey's locked material
 Look: **photorealistic people** (Kelsey switched it from Office Diorama, 2026-10-15; `CLAUDE.md`
 rule 7). Fiction._
 
+**Status (2026-10-16): not locked.** Kelsey liked it through the three memories (2026-09-26). The
+bridge and ending (cues E to G, shots 9 to 11) are Claude and DeepSeek drafts with no recorded Kelsey
+approval; they get decided with Kelsey first. No stills or video until the story, scenes and script
+are locked (`CLAUDE.md`, HOW CONCEPTS GET MADE, item 6).
+
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 30 seconds are a father and
 daughter and nothing else; Waypoint doesn't exist until the pull back at ~0:44 finds his packed

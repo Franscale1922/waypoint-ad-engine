@@ -40,8 +40,10 @@ income claims, no fake testimonials presented as real, nothing untrue about Wayp
 6. **Revision may fix, never flatten.** Revisions fix clarity, continuity and compliance. They may
    not remove the strange, specific or uncomfortable element that makes the piece ours. Every
    revision records: "what got more ordinary this round?" If the answer isn't "nothing", revert it.
-   Hard cap: 3 story revision rounds, then decide. (The ChatGPT project took 10 rounds to reach a
-   smoother, blander script and never produced a frame.)
+   **No fixed round cap (Kelsey, 2026-10-16):** Kelsey takes as many or as few rounds as it takes to
+   get a feel for the direction. The per-round record is the guard against drift, not a count. (The
+   ChatGPT project took 10 rounds to reach a smoother, blander script; nobody was naming what got
+   more ordinary each round.)
 7. **A locked visual signature, owned by Waypoint.** One palette, one framing habit, one recurring
    motif, one end-card typography, one texture/frame-rate choice — decided once by testing, then
    locked and applied to everything, so a viewer recognises a Waypoint ad before the logo. Default
@@ -65,9 +67,14 @@ income claims, no fake testimonials presented as real, nothing untrue about Wayp
    Seedream more interesting for stylized work — test, don't assume).
 9. **Opinionated recommendations.** When Claude proposes, it leads with one recommendation and why,
    not a neutral menu. Kelsey is the taste gate; Claude is not allowed to be beige in its advice.
-10. **The blandness audit is part of every review.** The adversarial review scores each ad on:
-    stance present? average named and avoided? swap test passed? signature applied? most
-    memorable single image or line identified? A pass on correctness with a fail here is a fail.
+10. **The blandness audit is part of every review.** First, before anything else: **does the story
+    make a 40 to 65 year old feel something before they know it's an ad?** Kelsey's read decides
+    that, not a score. (Kelsey rejected Nine-Thirty on 2026-09-29 and all three sibling repo dry run
+    concepts on 2026-10-16 for the same reason: clever, built toward the CTA, no emotional tie. On
+    2026-09-27 Claude's scorecard had ranked The Unfinished Song, the one story Kelsey liked, 2 out
+    of 10 for lacking a stance.) Then the adversarial review checks the rest: stance present? average
+    named and avoided? swap test passed? signature applied? most memorable single image or line
+    identified? A pass on correctness with a fail here is a fail.
 
 ### TONE (Kelsey, 2026-09-27)
 Witty. Sarcastic. Pushes on uncomfortable truths — ageism after 45, the reorg email, loyalty that
@@ -91,6 +98,24 @@ Killed: "A corporate job isn't safe — it only feels safe until the reorg email
 to the "employment is a trap" framing already rejected (`research/REFERENCE-DIGEST-v1.md` §3), and
 "your waiting is" says it better. The expo stance was rewritten from "a franchise expo is the worst
 place to choose a franchise", which attacked Second Act Expo, Waypoint's own lead-gen channel.
+
+### HOW CONCEPTS GET MADE (Kelsey, 2026-10-16)
+Every concept an AI wrote on its own has been rejected. The only story Kelsey liked was built with
+Kelsey's hands on it. So concepts are made together:
+1. **Kelsey guides the creative; Claude proposes, pushes back and holds the structure.**
+2. **Start from a pain, written from its "fear under it"** (the Waypoint Buyer Pain Bank; repo copy
+   in `~/Projects/animated-ads-production-engine/source/pain-bank/`, the live Claude Doc wins), not
+   from its work complaint. While the story is being found there is no Waypoint, no CTA and no
+   checklist.
+3. **Claude brings several concepts that are truly different** (relationship, feeling, setting), a
+   short paragraph each, one recommended (rules 5 and 9), picked from a wider pool across models.
+4. **Kelsey adds a true detail and steers,** for as many rounds as it takes (rule 6). Ads stay
+   fiction (Kelsey, 2026-09-26); a true detail is raw material, not Kelsey's story on screen.
+5. **The ending, how Waypoint enters the story, is decided together after the story works.** It may
+   be light: the story, the name, one true line. Every earlier version broke at the bridge.
+6. **No image or video generation until the story is locked, the scenes are set and the script is
+   designed** (in any order). This replaces "render the hardest shot before writing" (2026-09-27).
+7. Compliance checks run on the script and the ending, not on which human stories may be told.
 
 ---
 

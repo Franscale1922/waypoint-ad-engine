@@ -60,7 +60,7 @@ the decision: it does not make the top three, as its own record predicted.
 ## Decisions (2026-09-27, after Kelsey's system review)
 - **Story: Nine-Thirty** (Kelsey: "go" on the recommendation). Working title; DeepSeek's original
   title "The Beige Screensaver" retired.
-- **Order of work changed:** render the hardest shot BEFORE writing the script. No more docs until a
+- **Order of work changed:** render the hardest shot BEFORE writing the script. *(Superseded 2026-10-16, see the end of this record.)* No more docs until a
   frame exists. Numeric scoring dropped; the five questions stay.
 - **Voice: ElevenLabs** (Kelsey has an account; key copied into this project's `.env` from Kids
   Videos / everyx-engine, both identical). Not Kelsey's own voice, not Higgsfield TTS.
@@ -146,3 +146,18 @@ obedient, cheapest); decide the finishing model per shot after the ad is cut. Cl
   "what got more ordinary".
 - The Office Diorama bake-off and video test above stay as history. No photoreal look test exists
   yet; the first photoreal stills (Chloe at four ages first) are the next test, not another document.
+  *(Superseded 2026-10-16: no stills until the story, scenes and script are locked.)*
+
+## Process change (2026-10-16, Kelsey)
+- **Finish this ad first.** Kelsey: "Let's finish unfinished song as it's already in motion."
+- **No image or video generation until the story is locked, the scenes are set and the script is
+  designed** (any order). Replaces the 2026-09-27 "render the hardest shot before writing."
+- **Concepts and story are made together:** Claude proposes several different options with one
+  recommended, Kelsey guides the creative (`CLAUDE.md`, HOW CONCEPTS GET MADE). **No fixed round cap:**
+  Kelsey "may need more or less to get a good feel on direction." Each round still names what got
+  more ordinary.
+- **Feeling first** in every review (`CLAUDE.md` rule 10). On 2026-09-27 the scorecard ranked this
+  story 2 of 10 for lacking a stance; Kelsey's read is what decides.
+- **Open for this ad, in Kelsey's order:** the bridge and ending (cues E to G, shots 9 to 11; no
+  approval of v7 or v8 is recorded), then the scenes and the script, then voices. Nothing generated.
+- Why: the sibling repo's AI-led story system was rejected the same day (BRIEF.md, 2026-10-16 block).

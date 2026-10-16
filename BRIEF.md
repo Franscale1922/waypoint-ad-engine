@@ -44,6 +44,28 @@ captivating stories through animation or photorealistic people (photoreal allowe
 
 ## State (updated 2026-09-27 — this is the handoff for the next session)
 
+**2026-10-16 (Kelsey). Read this first; it overrides any older line below that disagrees.**
+- **Priority: finish ad 001, The Unfinished Song** (`ads/001/STORY.md` v8). It is already in motion.
+- **No image or video generation until the story is locked, the scenes are set and the script is
+  designed** (in any order). This replaces "render before writing" and "stills for the hardest shots
+  first" below.
+- **Concepts are made with Kelsey** (`CLAUDE.md`, HOW CONCEPTS GET MADE): Claude proposes several
+  different options with one recommended, Kelsey steers and adds true details. **No fixed round cap**
+  (rule 6). **Feeling first** in every review (rule 10).
+- **Where ad 001 stands.** Kelsey liked the story up to and including the three memories
+  (2026-09-26). The bridge and ending (cues E to G, shots 9 to 11) were rebuilt by Claude and DeepSeek
+  in v7 and v8; no Kelsey approval of them is recorded. Decide them with Kelsey first. The v8 shot
+  list and the 84 word script are drafts. Voices are still open (round 2 reel, 18 voices); the final
+  VO waits for the locked script.
+- **Watch the ending.** Every version so far broke at the turn to Waypoint. The ending is a creative
+  decision made together and may be lighter than a quiz pitch. If any line says "free," say who
+  pays (Pain Bank rule: brands pay Waypoint, candidates don't). Re-read the landing page the day the
+  ending locks.
+- **Why the change.** The sibling repo `~/Projects/animated-ads-production-engine` ran a full story
+  system led by the AI. Kelsey rejected all three of its concepts on 2026-10-16: "too much focus on
+  trying to tie to the end card or desired cta. Doesn't drive an emotional tie that a human audience
+  of 40-60 year olds can connect to." Its record: `HANDOFF-2026-10-14.md`, `story/06-dry-run.md`.
+
 **Phase 0 (reference intake) is complete** unless Kelsey adds more references.
 
 Read in this order:
@@ -83,14 +105,14 @@ rendered in 3 directions × 4 models (T4 in progress: **Kelsey picks the signatu
 Decided 2026-09-27: voice = ElevenLabs (key in `.env`); organic Facebook post first, paid behind the
 performers; landing page = the readiness quiz at /scorecard; the two-stage review runs once, on
 the finished ad. **Kelsey's system review, same day: no new docs until a frame exists; numeric
-scoring dropped; render before writing.**
+scoring dropped; render before writing.** *(Render before writing superseded 2026-10-16: no image or video until the story, scenes and script are locked.)*
 Later the same day: **signature locked** (Office Diorama, GPT Image 2.5; `CLAUDE.md` rule 7) ·
 **video test passed** (Seedance 2.0 fast 480p obeyed exactly; Kling 3.0 turned the head) ·
 **`ads/001/STORY.md` v1 written** (script 145 words, 8 shots, CTA facts sourced to the live quiz
 page, blandness audit) · **VO rendered in ElevenLabs** (Roger; 52.1s of speech, fits a 60s cut;
 `ads/001/vo/`, local only). Spent today: ~33 Higgsfield credits, ~$0.15 DeepSeek, ~900 ElevenLabs chars.
 **Next (Phase 3, production — Opus 5.5 · high):** (1) Kelsey approves the voice (or picks Chris/
-Eric) and reads STORY.md — max 3 revision rounds, log "what got more ordinary"; (2) stills for the
+Eric) and reads STORY.md — ~~max 3 revision rounds~~ (no cap since 2026-10-16), log "what got more ordinary"; (2) stills for the
 hardest shots first: S3 kitchen (three peg dolls), S6 the amber TUESDAY, S8 the end card, all GPT
 Image 2.5 with `bake-off/11.png` as the style reference; (3) every shot to Seedance 2.0 fast 480p,
 cut to the VO with ffmpeg, watch it with video-vision; (4) finish keepers at 1080p; (5) the single
@@ -99,7 +121,7 @@ two-stage adversarial review (T2) on the cut; (6) organic Facebook post with the
 ElevenLabs shared-library voices work directly by id, no account change. Waiting on Kelsey's pick.
 **Look (2026-10-15):** photorealistic people allowed (`CLAUDE.md` rule 7) and **ad 001 switched to
 photoreal** (STORY.md v8; the miniature reveal became the pull back to his packed suitcase). Next
-stills: a photoreal look test, Chloe at four ages first; `bake-off/11.png` is no longer the style
+stills (a photoreal look test, Chloe at four ages first) wait until the story, scenes and script are locked (2026-10-16); `bake-off/11.png` is no longer the style
 reference for this ad.
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
