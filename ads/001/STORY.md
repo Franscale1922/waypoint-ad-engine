@@ -14,6 +14,17 @@ playing are from the ChatGPT v6.1 draft and were never reviewed by Kelsey; cues 
 DeepSeek drafts. All of it gets decided with Kelsey first. No stills or video until the story, scenes and script
 are locked (`CLAUDE.md`, HOW CONCEPTS GET MADE, item 6).
 
+## Kelsey's steering, round 1 (2026-10-16, in progress; v9 gets written from this)
+- **Open scope:** everything after the three memories (cues D to G, shots 7 to 11).
+- **Runtime:** under 3 minutes, may run close to 3. The back half can show the bridge instead of
+  narrating it.
+- **Back half:** four directions put to Kelsey (Tonight, recommended; It's Finished; She Says It;
+  Your Turn). Not picked yet.
+- **CTA direction (Kelsey):** like "A journey starts with the first step. Take a quick quiz to see if
+  you're ready." Soft default, Kelsey's wording wins. Wording still open; "journey" is on the rule 3
+  banned list, flagged once. Card adds who pays if "free" appears. "See if you're ready" matches the
+  live page (Franchise Readiness Quiz, "5 questions. 2 minutes.", read 2026-10-16).
+
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 30 seconds are a father and
 daughter and nothing else; Waypoint doesn't exist until the pull back at ~0:44 finds his packed
