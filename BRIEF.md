@@ -97,6 +97,10 @@ cut to the VO with ffmpeg, watch it with video-vision; (4) finish keepers at 108
 two-stage adversarial review (T2) on the cut; (6) organic Facebook post with the /scorecard link.
 **Voice (2026-09-29):** 10-voice audition reel sent (`ads/001/vo/voice-auditions-reel.mp3`, local);
 ElevenLabs shared-library voices work directly by id, no account change. Waiting on Kelsey's pick.
+**Look (2026-10-15):** photorealistic people allowed (`CLAUDE.md` rule 7) and **ad 001 switched to
+photoreal** (STORY.md v8; the miniature reveal became the pull back to his packed suitcase). Next
+stills: a photoreal look test, Chloe at four ages first; `bake-off/11.png` is no longer the style
+reference for this ad.
 
 ## Triggered work — do not drop (recorded 2026-09-27 at session close)
 

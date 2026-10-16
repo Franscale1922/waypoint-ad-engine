@@ -1,12 +1,14 @@
-# Ad 001 — "The Unfinished Song" — story, script, shot list (v7, 2026-09-29)
+# Ad 001 — "The Unfinished Song" — story, script, shot list (v8, 2026-10-15)
 
 _Rebuilt from the ChatGPT-era script v6.1 after Kelsey rejected "Nine-Thirty" (dry, witty, no
 emotional connector; kept in git history). First half = Kelsey's locked material. The bridge is new.
-Signature: Office Diorama (`CLAUDE.md` rule 7). Fiction._
+Look: **photorealistic people** (Kelsey switched it from Office Diorama, 2026-10-15; `CLAUDE.md`
+rule 7). Fiction._
 
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 30 seconds are a father and
-daughter and nothing else; Waypoint doesn't exist until the set is revealed as a miniature at ~0:44.
+daughter and nothing else; Waypoint doesn't exist until the pull back at ~0:44 finds his packed
+roller bag by the door, still waiting for tomorrow's flight.
 
 ## The average, refused (rule 1)
 The obvious dad-and-daughter regret ad: tears, a slow-motion hug, sad piano, "time is the one thing
@@ -14,6 +16,10 @@ you can't get back", "it's never too late", then "start your franchise journey" 
 storefront. **Banned for this piece:** tears, the hug, piano (they play guitar), any promise or hint
 that a business gives time or family back, "never too late", "time you can't get back", a narrator
 who moralises about fatherhood.
+**The photoreal average, also banned (v8):** glossy poreless skin, golden-hour backlight, shallow
+focus on everything, teal-and-orange grade, a beige living room, slow motion, a symmetrical centred
+two-shot, Pixar-perfect faces. Instead: real skin, a lived-in room, the floor lamp as the only light
+in the present (kept from the diorama), a grey room with one colour that has a job (the crayon).
 
 ## Stance
 **2. Your employer isn't the villain. Your waiting is.** Carried by "next weekend", the villain of the
@@ -21,8 +27,11 @@ whole ad. Closed by **1. Most people shouldn't buy a franchise.** Where a compet
 "Nobody can sell you more weekends" says out loud the promise every other franchise ad implies.
 
 ## Characters
-ARTHUR, early 50s, corporate (years of travel). Peg doll, dot eyes, no mouth, grey cardigan.
-CHLOE, 22, moving out. Peg doll; at 2, 10 and 16 a smaller peg, same paint, same hair ribbon.
+ARTHUR, early 50s, corporate (years of travel). Real person, invented face. Grey cardigan over a
+work shirt, reading glasses pushed up on his head.
+CHLOE, 22, moving out. Real person, invented face. At 2, 10 and 16 the same girl, younger, with the
+same hair ribbon (the ribbon is the continuity anchor across ages).
+No real person's face or voice (Compliance).
 The sheet music: her crayon marks from when she was small, his ink. It is the bookend.
 
 ## Script (84 words)
@@ -44,20 +53,20 @@ Cues E–G replace "The song wasn't the only thing he'd kept putting off / after
 someone else's business, it was time to stop waiting and explore building something of his own /
 Take Waypoint's business readiness assessment." Cues A, C, D and the memories are unchanged.
 
-## Shot list (all Office Diorama: card sets, peg dolls, one practical lamp, fingerprint in every set)
+## Shot list (photorealistic people; the floor lamp is the only light in the present scenes)
 | # | Time | Picture |
 |---|---|---|
 | 1 | 0–5 | Living room at dusk, one floor lamp. Chloe carries a packing box past Arthur, who sits with a guitar; the sheet music on the coffee table. |
 | 2 | 5–11 | The sheet music close: crayon marks, ink, the last bars blank. A packed suitcase by the door, soft focus. |
 | 3 | 11–19 | Chloe, box down, picks up the music. Her line. Held after it. |
-| 4 | 19.5–22 | Memory: toddler peg by a closing front door; a roller bag's wheels leave. |
+| 4 | 19.5–22 | Memory: toddler Chloe by a closing front door; a roller bag's wheels leave. |
 | 5 | 22–24.5 | Memory: split frame, Arthur alone at an airport gate / ten-year-old Chloe holding a basketball trophy. |
 | 6 | 24.5–27.5 | Memory: teenage Chloe alone under a DADDY–DAUGHTER DANCE banner. |
 | 7 | 27.5–31.5 | Present. Arthur looks at the suitcase, then at her. "How about tonight?" He pats the cushion. |
 | 8 | 31.5–38 | Two-shot, held 6s: they play; she hums. The only music in the ad is theirs. |
 | 9 | 38–44 | Arthur writes the last bar in ink beside her crayon. His line. |
-| 10 | 44–51 | **Pull back, one continuous move:** the living room is a miniature on a workbench; the practical lamp, card walls, the fingerprint on a wall. The song keeps playing inside the model. Narrator F. |
-| 11 | 51–60 | Tabletop beside the model: a card, typed: "The honest readiness quiz, from a former franchisor. waypointfranchise.com/scorecard". Narrator G. |
+| 10 | 44–51 | **Pull back, one continuous move:** from the two playing, back across the room to the front door, where the suitcase from shot 2 stands packed in the foreground, boarding pass tucked in the handle. He is still going tomorrow; tonight he stopped waiting. The song keeps playing. Narrator F. |
+| 11 | 51–60 | End card (added in the edit, not generated): "The honest readiness quiz, from a former franchisor. waypointfranchise.com/scorecard". Narrator G. |
 Brand first appears at 0:51 (85%). Held shots ≥6s: 3, 8. Accent colour: the crayon (a single
 colour, TBD in the stills; one colour, one job: her childhood marks, then the finished bar).
 
@@ -73,11 +82,13 @@ Narrator: alive, warm, no regional accent, not an announcer. Chloe: 22, natural.
 tender and a little wry on E. All v1 voices rejected by Kelsey for low energy.
 
 ## Hardest shots
-10 (a continuous pull-back from inside the room to a workbench miniature, with the lamp and scale
-changing), 5 (split frame), and one Chloe held at four ages (the peg design makes this easier than
-clay: same paint, same ribbon, smaller peg).
+Chloe held at four ages as one believable person (much harder in photoreal than with the peg:
+character sheet and reference images first, the ribbon as the anchor), 10 (a continuous pull back
+that keeps both faces and the bag consistent), 5 (split frame). Cues C, D and E are now said by
+faces with mouths, so they need lip sync or must play off face (over the shoulder, or on the hands).
 
 ## Revision log
 | Round | What changed | What got more ordinary? |
 |---|---|---|
 | v7 | Bridge and CTA replaced; cue B shortened | Nothing: cue B lost a moral, the bridge lost a cliché and gained a stance |
+| v8 | Look switched to photorealistic people (Kelsey, 2026-10-15). Shot 10's miniature reveal replaced by the pull back to his packed suitcase; shot 11's card on the workbench becomes an end card; photoreal average named and banned | **The miniature reveal, the ad's strangest image, is gone**, and photoreal pulls toward the average look. Not reverted: the switch is Kelsey's direction. The bag carries stance 2 instead (he didn't quit; the waiting was the villain). Kelsey's eye decides if it is strong enough |

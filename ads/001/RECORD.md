@@ -136,3 +136,13 @@ obedient, cheapest); decide the finishing model per shot after the ad is cut. Cl
   regional accents, DJ/promo (cheesy), deep trailer baritones (the average). Every clip transcribed
   locally (claude-video-vision, offline Whisper): all 18 word-exact, no tags spoken. The ElevenLabs
   key lacks speech-to-text permission. Reel: `ads/001/vo/voice-auditions-round2.mp3` (local).
+
+## Look switch (2026-10-15, Kelsey)
+- **Photorealistic people are allowed** in Waypoint ads (`CLAUDE.md` rule 7, amended), and **ad 001
+  switches to photoreal.** STORY.md v8 applies it: real people with invented faces, the photoreal
+  average named and banned, the floor lamp kept as the only light, the crayon kept as the one colour.
+- **Cost:** shot 10's pull back to the workbench miniature only worked in the diorama. It now pulls
+  back to Arthur's packed suitcase by the door. Logged in STORY.md's revision log as the round's
+  "what got more ordinary".
+- The Office Diorama bake-off and video test above stay as history. No photoreal look test exists
+  yet; the first photoreal stills (Chloe at four ages first) are the next test, not another document.
