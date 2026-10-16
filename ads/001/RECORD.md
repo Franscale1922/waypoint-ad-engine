@@ -158,6 +158,7 @@ obedient, cheapest); decide the finishing model per shot after the ad is cut. Cl
   more ordinary.
 - **Feeling first** in every review (`CLAUDE.md` rule 10). On 2026-09-27 the scorecard ranked this
   story 2 of 10 for lacking a stance; Kelsey's read is what decides.
-- **Open for this ad, in Kelsey's order:** the bridge and ending (cues E to G, shots 9 to 11; no
-  approval of v7 or v8 is recorded), then the scenes and the script, then voices. Nothing generated.
+- **Open for this ad, in Kelsey's order:** everything after the three memories (cues D to G, shots
+  7 to 11; corrected the same day from "cues E to G": Kelsey never reviewed "How about tonight?" or
+  the playing either), then the scenes and the script, then voices. Nothing generated.
 - Why: the sibling repo's AI-led story system was rejected the same day (BRIEF.md, 2026-10-16 block).

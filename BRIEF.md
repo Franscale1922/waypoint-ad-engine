@@ -53,8 +53,10 @@ captivating stories through animation or photorealistic people (photoreal allowe
   different options with one recommended, Kelsey steers and adds true details. **No fixed round cap**
   (rule 6). **Feeling first** in every review (rule 10).
 - **Where ad 001 stands.** Kelsey liked the story up to and including the three memories
-  (2026-09-26). The bridge and ending (cues E to G, shots 9 to 11) were rebuilt by Claude and DeepSeek
-  in v7 and v8; no Kelsey approval of them is recorded. Decide them with Kelsey first. The v8 shot
+  (2026-09-26). **Everything after the memories is open: cues D to G, shots 7 to 11** (corrected
+  2026-10-16, Kelsey: "I don't recall revising past that point"). "How about tonight?" and the
+  playing come from the ChatGPT v6.1 draft and were never reviewed by Kelsey; the bridge and ending
+  were rebuilt by Claude and DeepSeek in v7 and v8. Decide all of it with Kelsey first. The v8 shot
   list and the 84 word script are drafts. Voices are still open (round 2 reel, 18 voices); the final
   VO waits for the locked script.
 - **Watch the ending.** Every version so far broke at the turn to Waypoint. The ending is a creative
