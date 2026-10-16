@@ -12,7 +12,8 @@ question for every concept: does the first 20 seconds make a 50-year-old feel so
 know it's an ad? A clever concept that fails this fails.
 
 ## 0. What a Waypoint ad is
-A 30–60 second piece of animated fiction about one person, 40–65, in the last stretch of a corporate
+A piece of fiction, animated or photoreal, up to just under 3 minutes (Kelsey, 2026-10-16; it was
+30–60 seconds), about one person, 40–65, in the last stretch of a corporate
 life, that ends on a decision and a way to find out more. It is not about brands, money or Waypoint.
 It is about the buyer's inner life, which nobody else in franchising is filming. Facebook feed,
 9:16 or 1:1, sound on or off. The person watching should feel seen first and sold to never.

@@ -5,6 +5,9 @@ emotional connector; kept in git history). First half = Kelsey's locked material
 Look: **photorealistic people** (Kelsey switched it from Office Diorama, 2026-10-15; `CLAUDE.md`
 rule 7). Fiction._
 
+**Runtime (Kelsey, 2026-10-16): under 3 minutes, may run close to 3.** The 60 second timings below are
+v8's and get rebuilt once the back half is chosen.
+
 **Status (2026-10-16): not locked.** Kelsey liked it through the three memories (2026-09-26).
 **Everything after them is open: cues D to G, shots 7 to 11.** Cue D ("How about tonight?") and the
 playing are from the ChatGPT v6.1 draft and were never reviewed by Kelsey; cues E to G are Claude and

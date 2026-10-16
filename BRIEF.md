@@ -19,7 +19,9 @@ captivating stories through animation or photorealistic people (photoreal allowe
   generation (research-before-generation rule).
 - **Ads are fiction** with a business-ownership lesson and a CTA. Audience: 40–65, men and women,
   "corporate refugees". The story is invented; anything said about Waypoint or franchising is not.
-- **Formats: 9:16 or 1:1, Facebook-first.** Schedule, placement and budget are out of scope.
+- **Formats: 9:16 or 1:1, Facebook-first. Runtime: under 3 minutes, and it may run close to 3**
+  (Kelsey, 2026-10-16: "We are not bound by a short time frame limitation"; the old 60s cut is gone).
+  Schedule, placement and budget are out of scope.
 - (If Kelsey's own arc is ever used: founder + CEO of Bloomin' Blinds, ran own location at a loss,
   now advisor — never "failed franchisee", never ex-corporate.)
 

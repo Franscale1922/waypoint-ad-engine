@@ -2,7 +2,8 @@
 
 Emotionally driven story ads for Waypoint, animated or with photorealistic people (allowed by
 Kelsey, 2026-10-15), (franchise advisory under FranChoice). Audience:
-40–65, men and women, "corporate refugees" (band widened from 40–60 by Kelsey, 2026-10-15). Facebook-first, 9:16 or 1:1. Ads are fiction carrying a
+40–65, men and women, "corporate refugees" (band widened from 40–60 by Kelsey, 2026-10-15). Facebook-first, 9:16 or 1:1, **up to just under 3 minutes** (Kelsey, 2026-10-16: "not bound by a short
+time frame"). Ads are fiction carrying a
 business-ownership lesson, then a CTA. Goal of everything: **audience interest → account growth →
 leads.** Handoff/state: `BRIEF.md`. What we've learned: `research/`. Reference material in
 `references/` is learning, never law.
