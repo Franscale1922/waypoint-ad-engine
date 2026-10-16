@@ -22,10 +22,12 @@ MADE, item 6).
   Now" brochure from 2019 falls out of it.
 - Back half direction: Kelsey's keeping the legal pad reads as "Tonight" over It's Finished, She
   Says It and Your Turn (2026-10-16). Not said in words; confirm.
+- **Approved for now, Kelsey may revise later** (2026-10-16): the song scene lines (cues D2, D3),
+  the legal pad list as written including "ask someone who'll tell me no", narrator cue E (kept),
+  and the 10:15 a.m. flight.
 
-**Still Claude drafts, for Kelsey to steer:** cue D's wording, every line in the song scene, the
-exact items on the legal pad, what he writes at 4 a.m., the morning at the door, narrator cue E
-(keep or cut), the optional plant in shot 2, the flight time.
+**Presented with those, not yet approved by name:** cue D ("Next wee—" / "Tonight."), the date he
+writes at 4 a.m., the morning at the door, the optional plant in shot 2.
 
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 45 seconds are a father and
@@ -66,14 +68,14 @@ No real person's face or voice (Compliance).
 - **The sheet music:** her crayon marks from when she was small, his ink, the last bars blank. The
   bookend of the song.
 - **The legal pad** (approved): yellow, folded over, lives in the suitcase's front pocket. Top line
-  in his hand: the years 2009, 2013, 2018, 2022, each crossed out. Under it, his list (draft wording):
-  "hardware store?" / "the fix-it guy everyone calls" / "swim school (Chloe loved it)" /
-  ~~"restaurant"~~ "no. hours." / "ask someone who'll tell me no". The last line is optional: it
-  is stance 1 in his own hand; cut it if it feels built toward the card.
+  in his hand: the years 2009, 2013, 2018, 2022, each crossed out. Under it, his list (approved for
+  now): "hardware store?" / "the fix-it guy everyone calls" / "swim school (Chloe loved it)" /
+  ~~"restaurant"~~ "no. hours." / "ask someone who'll tell me no". The last line is stance 1 in his
+  own hand.
 - **The brochure** (Kelsey's): glossy, generic, no real brand or logo, big type "START A BUSINESS
   NOW", a 2019 date on the cover (draft: "Spring 2019"). The joke lands on NOW.
 - **The suitcase:** packed by the door from the first shot; his flight is tomorrow at 10:15 a.m.
-  (draft; v8 had no time, and a 6 a.m. flight would put him at the airport before she leaves).
+  (approved for now; a 6 a.m. flight would put him at the airport before she leaves).
 
 ## Script (about 100 words; the song carries the middle)
 | Cue | Time | Speaker | Line | Status |
@@ -83,11 +85,11 @@ No real person's face or voice (Compliance).
 | C | 0:19–0:24 | Chloe | I guess we always thought we'd finish it next weekend, Dad. | approved |
 | — | 0:26–0:35 | (silent) | Three memories. | approved |
 | D | 0:38–0:44 | Arthur | Next wee— *(stops; turns the phone face down)* Tonight. | draft (replaces "How about tonight?") |
-| D2 | 0:47–0:52 | Chloe / Arthur | Is that a note? / That's a horse. You were very sure about the horse. | draft |
-| D3 | 0:57–1:05 | Arthur / Chloe / Arthur / Chloe | It goes up. / Down. It goes down. / It went down when you were seven. / I was right when I was seven. | draft |
+| D2 | 0:47–0:52 | Chloe / Arthur | Is that a note? / That's a horse. You were very sure about the horse. | approved for now |
+| D3 | 0:57–1:05 | Arthur / Chloe / Arthur / Chloe | It goes up. / Down. It goes down. / It went down when you were seven. / I was right when I was seven. | approved for now |
 | — | 1:05–1:40 | (music) | Time passes; then they play it straight through once. It is a little bad. Nobody speaks. | draft |
 | — | 1:40–2:05 | (silent) | 4 a.m.: the legal pad, the brochure, a date. | approved idea, draft details |
-| E | 2:12–2:20 | Narrator | He always said he'd look at owning a business once the kids were out. *(beat)* The kids are out. | draft: keep or cut by reading it aloud against the 4 a.m. scene |
+| E | 2:12–2:20 | Narrator | He always said he'd look at owning a business once the kids were out. *(beat)* The kids are out. | approved for now (kept) |
 | G | 2:25–2:33 | Narrator | Not next weekend. The first step takes two minutes. See if you're ready. | **approved** |
 
 ## Shot list (photorealistic people; the floor lamp is the only light at night)
