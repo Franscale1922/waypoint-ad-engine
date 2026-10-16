@@ -16,7 +16,7 @@ captivating stories through animation, repeatably.
 - **Compliance is part of the story, not a filter after it.** Franchise advertising under
   FranChoice: no earnings claims or income projections; every factual claim sourced before
   generation (research-before-generation rule).
-- **Ads are fiction** with a business-ownership lesson and a CTA. Audience: 40–60, men and women,
+- **Ads are fiction** with a business-ownership lesson and a CTA. Audience: 40–65, men and women,
   "corporate refugees". The story is invented; anything said about Waypoint or franchising is not.
 - **Formats: 9:16 or 1:1, Facebook-first.** Schedule, placement and budget are out of scope.
 - (If Kelsey's own arc is ever used: founder + CEO of Bloomin' Blinds, ran own location at a loss,
@@ -55,7 +55,7 @@ Read in this order:
 5. `research/REFERENCE-DIGEST-v1.md` — Franky Shaw + ChatGPT "Unfinished Song" (sec. 6 = Kelsey's answers).
 
 Decided:
-- Audience 40–60 M/F corporate refugees; fiction stories + business-ownership lesson + CTA;
+- Audience 40–65 M/F corporate refugees (widened from 40–60, Kelsey 2026-10-15); fiction stories + business-ownership lesson + CTA;
   9:16 / 1:1, Facebook-first; no planning around budget/placement/schedule.
 - Tone: witty, sarcastic, uncomfortable truths, adult innuendo within Meta policy. No humour
   whose punchline depends on a racial stereotype (joke lands on the assumption, not the group).

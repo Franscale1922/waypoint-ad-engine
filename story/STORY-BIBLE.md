@@ -12,7 +12,7 @@ question for every concept: does the first 20 seconds make a 50-year-old feel so
 know it's an ad? A clever concept that fails this fails.
 
 ## 0. What a Waypoint ad is
-A 30–60 second piece of animated fiction about one person, 40–60, in the last stretch of a corporate
+A 30–60 second piece of animated fiction about one person, 40–65, in the last stretch of a corporate
 life, that ends on a decision and a way to find out more. It is not about brands, money or Waypoint.
 It is about the buyer's inner life, which nobody else in franchising is filming. Facebook feed,
 9:16 or 1:1, sound on or off. The person watching should feel seen first and sold to never.
@@ -73,7 +73,7 @@ weeks, COBRA windows, the badge that stops working at 5:01). This audience mocks
 them wrong. Every such detail gets a source before generation.
 
 ## 4. Character rules
-- **One person per ad**, 40–60, a man or a woman, in a corporate role we can see (the lanyard, the
+- **One person per ad**, 40–65, a man or a woman, in a corporate role we can see (the lanyard, the
   standing desk nobody raised, the parking spot with a name). Vary casting, age, body, region and
   culture across ads; make the cultural detail specific and true. Never a joke whose punchline
   depends on a racial stereotype. The joke lands on an *assumption* someone makes, not on a group.

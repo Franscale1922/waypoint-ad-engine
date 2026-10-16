@@ -1,7 +1,7 @@
 # Waypoint Cinematic Ad Engine — project instructions
 
 Animated, emotionally driven story ads for Waypoint (franchise advisory under FranChoice). Audience:
-40–60, men and women, "corporate refugees". Facebook-first, 9:16 or 1:1. Ads are fiction carrying a
+40–65, men and women, "corporate refugees" (band widened from 40–60 by Kelsey, 2026-10-15). Facebook-first, 9:16 or 1:1. Ads are fiction carrying a
 business-ownership lesson, then a CTA. Goal of everything: **audience interest → account growth →
 leads.** Handoff/state: `BRIEF.md`. What we've learned: `research/`. Reference material in
 `references/` is learning, never law.
