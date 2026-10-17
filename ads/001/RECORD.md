@@ -162,3 +162,46 @@ obedient, cheapest); decide the finishing model per shot after the ad is cut. Cl
   7 to 11; corrected the same day from "cues E to G": Kelsey never reviewed "How about tonight?" or
   the playing either), then the scenes and the script, then voices. Nothing generated.
 - Why: the sibling repo's AI-led story system was rejected the same day (BRIEF.md, 2026-10-16 block).
+
+## Story locked for now (2026-10-16, Kelsey)
+- **v9 approved in full** (`STORY.md`): story, scenes, script; Kelsey may revise later. Scope was
+  corrected first: Kelsey had approved only through the three memories, so cue D and the playing
+  were open too. Runtime opened to under 3 minutes. Back half "Tonight" (picked over It's Finished,
+  She Says It, Your Turn). CTA is Kelsey's: "Not next weekend. The first step takes two minutes. See
+  if you're ready." No "free" and no who-pays in the ad. Kelsey's detail: the 2019 "Start a Business
+  Now" brochure that falls out of the legal pad.
+- Pool: Claude's options plus 32 DeepSeek endings and back halves (`deepseek-v4-pro`, 1.0 and 1.1,
+  4 calls). Most DeepSeek drafts ended on the quiz glowing on a laptop or phone (the average); one
+  seed survived into option She Says It. Nothing generated.
+
+## Look, reopened (2026-10-16)
+Kelsey: "If there's any research or suggestion that the cartoon style would be preferred over
+photorealistic, I'm okay with that." Why ad 001 went photoreal on 2026-10-15 is not recorded beyond
+Kelsey allowing it (sibling repo DECISION-REGISTER: photoreal allowed, no disclaimers, every video
+labeled as AI at upload).
+**Evidence found (web, 2026-10-16):**
+- Gallup and Bentley University, Business in Society 2026 (3,270 US adults, May 4 to 11, 2026):
+  62% say using AI to create people or voices in ads is unacceptable, even when disclosed; 79% saw
+  ads in the past 30 days that looked AI made; negative views of AI ads run 38% at ages 45 to 59 and
+  46% at 60+. https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-ai-advertising.aspx
+- NIQ, 2024 (company release, not peer reviewed): viewers spotted most AI ads unprompted, rated them
+  more "annoying, boring, confusing", and even high quality ones produced weaker memory activation.
+  https://nielseniq.com/global/en/news-center/2024/niq-research-uncovers-hidden-consumer-attitudes-toward-ai-generated-ads/
+- System1 (vendor data, mostly TV): animated characters +25% emotional response; campaigns built on a
+  recurring character or world ("fluent device") 37% more likely to gain share (IPA DataMINE).
+  https://www.warc.com/en/article/brand-characters-boost-the-effectiveness-of-tv-ads-2741a24c4b614aff9f214c75876d515f
+- Against: Journal of Science Communication 2025 (~500 adults, Germany): realistic avatars were
+  trusted more than cartoon ones for explaining science; the authors note stylized does better in
+  informal social settings. https://jcom.sissa.it/article/pubid/JCOM_2402_2025_A03/
+- Meta: AI made photoreal humans from Meta's own tools get a label beside "Sponsored"; since a June
+  2026 update Meta detects third party AI ads and labels them in "About this ad". Not decisive: every
+  video gets labeled at upload anyway. https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/
+**Claude's recommendation: back to the Office Diorama.** (1) v9's hardest shots are photoreal AI
+video's weakest: one girl at four ages, and a minute of two people playing guitar and talking (hands
+and lip sync); peg dolls have no mouths and simple hands, and the diorama already held still in a
+Seedance test. (2) The Gallup objection is to AI standing in for real people; a peg doll pretends to
+be no one. (3) It is Waypoint's locked signature (rule 7) and brings back "the medium admitted", the
+strangeness v8 gave up. **Costs:** all feeling moves into the voices, the one thing not yet cast; and
+AI voices sit inside the same Gallup 62% in either look. **Confirm by eye:** next session renders the
+same two frames (Chloe at four ages; the song two-shot) in both looks, and Kelsey picks.
+

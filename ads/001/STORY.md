@@ -5,10 +5,11 @@ emotional connector; kept in git history). Look: **photorealistic people** (Kels
 Office Diorama, 2026-10-15; `CLAUDE.md` rule 7). Fiction. **Runtime: under 3 minutes, may run close
 to 3** (Kelsey, 2026-10-16); v9 runs about 2:35._
 
-**Status (2026-10-16): not locked.** v9 is the back half Kelsey steered toward ("Tonight") written
-out in full for Kelsey's review. What is approved and what is still a Claude draft is marked below.
-No stills or video until the story, scenes and script are locked (`CLAUDE.md`, HOW CONCEPTS GET
-MADE, item 6).
+**Status (2026-10-16): LOCKED FOR NOW.** Kelsey approved every part of v9 (story, scenes, script)
+and may revise later. Generation may start. **Look reopened the same day:** Kelsey is open to
+stylized animation over photoreal if research or Claude's read supports it; Claude recommends the
+Office Diorama, to be confirmed by eye from a side-by-side (`RECORD.md`, "Look, reopened"). Nothing
+in the story, scenes or script depends on the look.
 
 ## What Kelsey has approved
 - **Front half, through the three memories** (2026-09-26): cues A, B, C, shots 1 to 6. Lines
@@ -26,8 +27,9 @@ MADE, item 6).
   the legal pad list as written including "ask someone who'll tell me no", narrator cue E (kept),
   and the 10:15 a.m. flight.
 
-**Presented with those, not yet approved by name:** cue D ("Next wee—" / "Tonight."), the date he
-writes at 4 a.m., the morning at the door, the optional plant in shot 2.
+- **Approved for now, same day:** cue D ("Next wee—" / "Tonight."), the date he writes at 4 a.m.,
+  the morning at the door, and the plant in shot 2 (the legal pad's edge in the suitcase pocket).
+  With these, all of v9 is approved.
 
 ## Why this shape
 Emotional story first, message second (Kelsey, 2026-09-29). The first 45 seconds are a father and
@@ -84,11 +86,11 @@ No real person's face or voice (Compliance).
 | B | 0:10–0:14 | Narrator | Years of corporate travel. A career he was proud of. | approved |
 | C | 0:19–0:24 | Chloe | I guess we always thought we'd finish it next weekend, Dad. | approved |
 | — | 0:26–0:35 | (silent) | Three memories. | approved |
-| D | 0:38–0:44 | Arthur | Next wee— *(stops; turns the phone face down)* Tonight. | draft (replaces "How about tonight?") |
+| D | 0:38–0:44 | Arthur | Next wee— *(stops; turns the phone face down)* Tonight. | approved for now (replaces "How about tonight?") |
 | D2 | 0:47–0:52 | Chloe / Arthur | Is that a note? / That's a horse. You were very sure about the horse. | approved for now |
 | D3 | 0:57–1:05 | Arthur / Chloe / Arthur / Chloe | It goes up. / Down. It goes down. / It went down when you were seven. / I was right when I was seven. | approved for now |
 | — | 1:05–1:40 | (music) | Time passes; then they play it straight through once. It is a little bad. Nobody speaks. | draft |
-| — | 1:40–2:05 | (silent) | 4 a.m.: the legal pad, the brochure, a date. | approved idea, draft details |
+| — | 1:40–2:05 | (silent) | 4 a.m.: the legal pad, the brochure, a date. | approved for now |
 | E | 2:12–2:20 | Narrator | He always said he'd look at owning a business once the kids were out. *(beat)* The kids are out. | approved for now (kept) |
 | G | 2:25–2:33 | Narrator | Not next weekend. The first step takes two minutes. See if you're ready. | **approved** |
 
@@ -96,7 +98,7 @@ No real person's face or voice (Compliance).
 | # | Time | Picture |
 |---|---|---|
 | 1 | 0:00–0:08 | Living room at dusk, one floor lamp. Chloe carries a packing box past Arthur, who sits with a guitar; the sheet music on the coffee table. Narrator A. |
-| 2 | 0:08–0:16 | The sheet music close: crayon marks, ink, the last bars blank. The packed suitcase by the door, soft focus. *Optional plant (draft, no new line): the yellow edge of the legal pad shows in its front pocket.* Narrator B. |
+| 2 | 0:08–0:16 | The sheet music close: crayon marks, ink, the last bars blank. The packed suitcase by the door, soft focus. *Plant (approved, no new line): the yellow edge of the legal pad shows in its front pocket.* Narrator B. |
 | 3 | 0:16–0:26 | Chloe, box down, picks up the music. Her line. Held after it. |
 | 4 | 0:26–0:29 | Memory: toddler Chloe by a closing front door; a roller bag's wheels leave. |
 | 5 | 0:29–0:32 | Memory: split frame, Arthur alone at an airport gate / ten-year-old Chloe holding a basketball trophy. |

@@ -63,7 +63,14 @@ captivating stories through animation or photorealistic people (photoreal allowe
   ("Tonight", about 2:35). Approved by Kelsey: the CTA line "Not next weekend. The first step takes
   two minutes. See if you're ready.", no "free" or who-pays in the ad, the legal pad with its notes,
   and Kelsey's 2019 "Start a Business Now" brochure. Everything else in the back half is a Claude
-  draft awaiting Kelsey's read (STORY.md lists what). The v8 shot
+  draft awaiting Kelsey's read (STORY.md lists what). **Then: v9 LOCKED FOR NOW** (Kelsey approved
+  every part; may revise later). Generation may start. **Look reopened:** Kelsey is open to stylized
+  over photoreal; Claude recommends back to the Office Diorama (evidence and reasons in `RECORD.md`,
+  "Look, reopened"). **Next session:** (1) render the same two frames in both looks, Chloe at four
+  ages and the song two-shot, for Kelsey to pick by eye (GPT Image 2.5; `bake-off/11.png` as the
+  diorama reference); (2) voices for narrator, Arthur and Chloe, cast for v9's dialogue (round 2
+  reel exists; don't reuse stability 0.6 / style 0.15 / speed 0.95). The two-stage review still runs
+  once, on the finished ad (T2). The v8 shot
   list and the 84 word script are drafts. Voices are still open (round 2 reel, 18 voices); the final
   VO waits for the locked script.
 - **Watch the ending.** Every version so far broke at the turn to Waypoint. The ending is a creative
